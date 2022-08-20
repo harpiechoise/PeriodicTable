@@ -1,0 +1,1328 @@
+{
+    "category1": "Gas noble",
+    "category2": "Hal\u00f3geno",
+    "category3": "No Metal",
+    "category4": "Metaloide",
+    "category5": "Otros Metales",
+    "category6": "Metales de transici\u00f3n",
+    "category7": "Alcalinoterr\u00e9os",
+    "category8": "Metales alcalinos",
+    "category9": "Lant\u00e1nidos",
+    "category10": "Act\u00ednidos",
+    "prop1": "Masa at\u00f3mica (relativa)",
+    "prop2": "Electronegatividad",
+    "prop3": "Categoria",
+    "prop4": "Fase",
+    "prop5": "Configuración electronica abreviada",
+    "tt1": "Haz doble click para obtener mas información sobre el/a {}.",
+
+    "H": {
+        "name": "Hidr\u00f3geno",
+        "summary": [
+            "El hidr\u00f3geno (en griego, de \u1f55\u03b4\u03c9\u03c1 h\u00fdd\u014dr, genitivo \u1f51\u03b4\u03c1\u03cc\u03c2 hydr\u00f3s, y \u03b3\u03ad\u03bd\u03bf\u03c2 g\u00e9nos \u00abque genera o produce agua\u00bb) es el elemento qu\u00edmico de n\u00famero at\u00f3mico 1, representado por el s\u00edmbolo H. Con una masa at\u00f3mica de 1,00797,\u200b es el m\u00e1s ligero de la tabla peri\u00f3dica de los elementos. Por lo general, se presenta en su forma molecular, formando el gas diat\u00f3mico H2 en condiciones normales. Este gas es inflamable, incoloro, inodoro, no met\u00e1lico e insoluble en agua.\u200b\nDebido a sus distintas y variadas propiedades, el hidr\u00f3geno no se puede encuadrar claramente en ning\u00fan grupo de la tabla peri\u00f3dica, aunque muchas veces se sit\u00faa en el grupo 1 (o familia 1A) por poseer un solo electr\u00f3n en la capa de valencia o capa superior.\nEl hidr\u00f3geno es el elemento qu\u00edmico m\u00e1s abundante, al constituir aproximadamente el 75 % de la materia visible del universo.\u200b\u200b En su secuencia principal, las estrellas est\u00e1n compuestas principalmente por hidr\u00f3geno en estado de plasma. El hidr\u00f3geno elemental es relativamente raro en la Tierra y es producido industrialmente a partir de hidrocarburos como, por ejemplo, el metano. La mayor parte del hidr\u00f3geno elemental se obtiene in situ, es decir, en el lugar y en el momento en que se necesita. Los mayores mercados del mundo disfrutan de la utilizaci\u00f3n del hidr\u00f3geno para el mejoramiento de combustibles f\u00f3siles (en el proceso de hidrocraqueo) y en la producci\u00f3n de amoniaco (principalmente para el mercado de fertilizantes). El hidr\u00f3geno puede obtenerse a partir del agua por un proceso de electr\u00f3lisis, pero resulta un m\u00e9todo mucho m\u00e1s caro que la obtenci\u00f3n a partir del gas natural.\u200b\nEl is\u00f3topo del hidr\u00f3geno m\u00e1s com\u00fan es el protio, cuyo n\u00facleo est\u00e1 formado por un \u00fanico prot\u00f3n y ning\u00fan neutr\u00f3n. En los compuestos i\u00f3nicos, puede tener una carga positiva (convirti\u00e9ndose en un cati\u00f3n llamado hidr\u00f3n, H+, compuesto \u00fanicamente por un prot\u00f3n, a veces en presencia de 1 o 2 neutrones); o carga negativa (convirti\u00e9ndose en un ani\u00f3n conocido como hidruro, H-). Tambi\u00e9n se pueden formar otros is\u00f3topos, como el deuterio, con un neutr\u00f3n, y el tritio, con dos neutrones. En 2001, fue creado en laboratorio el is\u00f3topo 4H y, a partir de 2003, se sintetizaron los is\u00f3topos 5H hasta 7H.\u200b\u200b El hidr\u00f3geno forma compuestos con la mayor\u00eda de los elementos y est\u00e1 presente en el agua y en la mayor\u00eda de los compuestos org\u00e1nicos. Tiene un papel particularmente importante en la qu\u00edmica \u00e1cido-base, en la que muchas reacciones implican el intercambio de protones (iones hidr\u00f3geno, H+) entre mol\u00e9culas solubles. Puesto que es el \u00fanico \u00e1tomo neutro para el que se puede resolver anal\u00edticamente la ecuaci\u00f3n de Schr\u00f6dinger, el estudio de la energ\u00eda y del enlace del \u00e1tomo de hidr\u00f3geno ha sido fundamental hasta el punto de haber desempe\u00f1ado un papel principal en el desarrollo de la mec\u00e1nica cu\u00e1ntica.\nLas caracter\u00edsticas de este elemento y su solubilidad en diversos metales son muy importantes en la metalurgia, puesto que muchos metales pueden sufrir fragilidad en su presencia,\u200b y en el desarrollo de formas seguras de almacenarlo para su uso como combustible.\u200b Es altamente soluble en diversos compuestos que poseen tierras raras y metales de transici\u00f3n,\u200b y puede ser disuelto tanto en metales cristalinos como amorfos.\u200b La solubilidad del hidr\u00f3geno en los metales est\u00e1 influenciada por las distorsiones locales o impurezas en la estructura cristalina del metal.\u200b",
+            "https://es.wikipedia.org/wiki/Hidr%C3%B3geno"
+        ],
+        "appareance": "gas incoloro",
+        "category": "diatomic nonmetal",
+        "phase": "Gas",
+        "category_t": "No metal diat\u00f3mico"
+    },
+    "He": {
+        "name": "H\u00e9lio",
+        "summary": [
+            "El helio (del griego: \u1f25\u03bb\u03b9\u03bf\u03c2  \u2018Sol\u2019, por haberse inferido en 1868 su existencia en la atm\u00f3sfera solar)\u200b es el elemento qu\u00edmico de n\u00famero at\u00f3mico 2, s\u00edmbolo He y peso at\u00f3mico est\u00e1ndar de 4,002602. Pertenece al grupo 18 de la tabla peri\u00f3dica de los elementos, ya que al tener el nivel de energ\u00eda completo presenta las propiedades de un gas noble. Es decir, es en general inerte (no reacciona), aunque hay excepciones,\u200b y al igual que estos, es un gas monoat\u00f3mico incoloro e inodoro que cuenta con el menor punto de ebullici\u00f3n de todos los elementos qu\u00edmicos y solo puede ser licuado bajo presiones muy grandes y no puede ser congelado a presi\u00f3n atmosf\u00e9rica.\nDurante un eclipse solar en 1868, el astr\u00f3nomo franc\u00e9s Pierre Janssen observ\u00f3 una l\u00ednea espectral amarilla en la luz solar que hasta ese momento era desconocida. Norman Lockyer observ\u00f3 el mismo eclipse y propuso que dicha l\u00ednea era producida por un nuevo elemento, al cual llam\u00f3 helio, con lo cual, tanto a Lockyer como a Janssen se les adjudic\u00f3 el descubrimiento de este elemento. En 1903 se encontraron grandes reservas de helio en campos de gas natural en los Estados Unidos, pa\u00eds con la mayor producci\u00f3n de helio en el mundo.\nIndustrialmente se usa en criogenia (siendo su principal uso, lo que representa alrededor de un 28 % de la producci\u00f3n mundial), en la refrigeraci\u00f3n de imanes superconductores. Entre estos usos, la aplicaci\u00f3n m\u00e1s importante es en los esc\u00e1neres de resonancia magn\u00e9tica. Tambi\u00e9n se utiliza como protecci\u00f3n para la soldadura por arco y otros procesos, como el crecimiento de cristales de silicio, los cuales representan el 20 % de su uso para el primer caso y el 26 % para el segundo. Otros usos menos frecuentes, aunque popularmente conocidos, son el llenado de globos y dirigibles, o su empleo como componente de las mezclas de gases usados en el buceo a gran profundidad.\u200b El inhalar una peque\u00f1a cantidad de helio genera un breve cambio en la calidad y el timbre de la voz humana. En la investigaci\u00f3n cient\u00edfica, el comportamiento del helio-4 en forma l\u00edquida en sus dos fases, helio I y helio II, es importante para los cient\u00edficos que estudian la mec\u00e1nica cu\u00e1ntica (en especial, el fen\u00f3meno de la superfluidez), as\u00ed como para aquellos que desean conocer los efectos ocurridos en la materia a temperaturas cercanas al cero absoluto (como el caso de la superconductividad).\nEl helio es el segundo elemento m\u00e1s ligero y el segundo m\u00e1s abundante en el universo observable, constituyendo el 24 % de la masa de los elementos presentes en nuestra galaxia. Esta abundancia se encuentra en proporciones similares en el Sol y en J\u00fapiter. Por masa se encuentra en una proporci\u00f3n doce veces mayor a la de todos los elementos m\u00e1s pesados juntos. La presencia tan frecuente de helio es debida a elevada energ\u00eda de enlace por nucle\u00f3n del helio-4 con respecto a los tres elementos que le siguen en la tabla peri\u00f3dica (litio, berilio y boro). Esta energ\u00eda da como resultado la producci\u00f3n frecuente de helio tanto en la fusi\u00f3n nuclear como en la desintegraci\u00f3n radioactiva. La mayor parte del helio en el universo se encuentra presente en la forma del is\u00f3topo helio-4 (4He), el cual se cree que se form\u00f3 unos 15 minutos despu\u00e9s del Big Bang. Gracias a la fusi\u00f3n de hidr\u00f3geno en las estrellas activas, se forma una peque\u00f1a cantidad de helio nuevo, excepto en las de mayor masa, debido a que durante las etapas finales de su vida generan su energ\u00eda convirtiendo el helio en elementos m\u00e1s pesados. En la atm\u00f3sfera de la Tierra se encuentran trazas de helio debido a la desintegraci\u00f3n radioactiva de algunos elementos. En algunos dep\u00f3sitos naturales el gas se encuentra en cantidad suficiente para la explotaci\u00f3n.\nEn la Tierra, la ligereza de helio ha provocado su evaporaci\u00f3n de la nube de gas y polvo a partir de la cual se form\u00f3 el planeta, por lo que es relativamente poco frecuente \u2014con una fracci\u00f3n de 0,00052 por volumen\u2014 en la atm\u00f3sfera terrestre. El helio presente en la Tierra hoy en d\u00eda ha sido creado en su mayor parte por la desintegraci\u00f3n radiactiva natural de los elementos radioactivos pesados (torio y uranio), debido a que las part\u00edculas alfa emitidas en dichos procesos constan de n\u00facleos de helio-4. Este helio radiog\u00e9nico es atrapado junto con el gas natural en concentraciones de hasta el 7 % por volumen, del que se extrae comercialmente por un proceso de separaci\u00f3n a baja temperatura llamado destilaci\u00f3n fraccionada.",
+            "https://es.wikipedia.org/wiki/Helio"
+        ],
+        "appareance": "gas incoloro, que exhibe un brillo rojo anaranjado cuando se coloca en un campo el\u00e9ctrico de alto voltaje",
+        "category": "noble gas",
+        "phase": "Gas",
+        "category_t": "Gas noble"
+    },
+    "Li": {
+        "name": "L\u00edtio",
+        "summary": [
+            "El litio (en griego: \u03bb\u03b9\u03b8\u03af\u03bf\u03bd \u2018piedrecita\u2019)\u200b es un elemento qu\u00edmico de s\u00edmbolo Li y n\u00famero at\u00f3mico 3. En la tabla peri\u00f3dica, se encuentra en el grupo 1, entre los elementos alcalinos. En su forma pura, es un metal blando, de color blanco plata, que se oxida r\u00e1pidamente en aire o agua. Su densidad es la mitad de la del agua, siendo el metal y elemento s\u00f3lido m\u00e1s ligero, blando y blanco. \n\nAl igual que los dem\u00e1s metales alcalinos es univalente y muy reactivo, aunque menos que el sodio, por lo que no se encuentra libre en la naturaleza. Acercado a una llama la torna carmes\u00ed pero, si la combusti\u00f3n es violenta, la llama adquiere un color blanco brillante.\nEs empleado especialmente en aleaciones conductoras del calor, en bater\u00edas el\u00e9ctricas. Respecto a sus sales, suelen emplearse en el tratamiento del trastorno bipolar.\n\n",
+            "https://es.wikipedia.org/wiki/Litio"
+        ],
+        "appareance": "blanco plateado",
+        "category": "alkali metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal alcalino"
+    },
+    "Be": {
+        "name": "Ber\u00edlio",
+        "summary": [
+            "El berilio es un elemento qu\u00edmico de s\u00edmbolo Be y n\u00famero at\u00f3mico 4. Es un elemento Alcalinot\u00e9rreo bivalente, t\u00f3xico, de color gris, duro, ligero y quebradizo. Se emplea principalmente como endurecedor en aleaciones, especialmente de cobre.",
+            "https://es.wikipedia.org/wiki/Berilio"
+        ],
+        "appareance": "blanco-gris metalizado",
+        "category": "alkaline earth metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal alcalinot\u00e9rreo"
+    },
+    "B": {
+        "name": "Boro",
+        "summary": [
+            "El boro es un elemento qu\u00edmico de la tabla peri\u00f3dica de los elementos que tiene el s\u00edmbolo B\u200b y n\u00famero at\u00f3mico 5, su masa es de 10,811. Es un elemento metaloide, semiconductor, trivalente que existe abundantemente en el mineral b\u00f3rax. Hay dos al\u00f3tropos del boro; el boro amorfo es un polvo marr\u00f3n, pero el boro met\u00e1lico es negro. La forma met\u00e1lica es dura (9,5 en la escala de Mohs) y es un mal conductor a temperatura ambiente. No se ha encontrado libre en la naturaleza.",
+            "https://es.wikipedia.org/wiki/Boro"
+        ],
+        "appareance": "marr\u00f3n oscuro",
+        "category": "metalloid",
+        "phase": "S\u00f3lido",
+        "category_t": "Metaloide"
+    },
+    "C": {
+        "name": "Carbono",
+        "summary": [
+            "El carbono (del lat\u00edn, carbo, 'carb\u00f3n') es un elemento qu\u00edmico con s\u00edmbolo  C, n\u00famero at\u00f3mico 6 y masa at\u00f3mica 12,01. Es un no metal y tetravalente, disponiendo de cuatro electrones para formar enlaces qu\u00edmicos covalentes. Tres is\u00f3topos del carbono se producen de forma natural, los estables 12C y 13C y el is\u00f3topo radiactivo 14C, que decae con una vida media de unos 5730 a\u00f1os.\u200b El carbono es uno de los pocos elementos conocidos desde la antig\u00fcedad,\u200b y es el pilar b\u00e1sico de la qu\u00edmica org\u00e1nica. Est\u00e1 presente en la Tierra en estado de cuerpo simple (carb\u00f3n y diamantes), de compuestos inorg\u00e1nicos (CO2 y CaCO3) y de compuestos org\u00e1nicos (biomasa, petr\u00f3leo y gas natural). Tambi\u00e9n se han sintetizado muchas nuevas estructuras basadas en el carbono: carb\u00f3n activado, negro de humo, fibras, nanotubos, fullerenos y grafeno.\nEl carbono es el 15.\u00ba elemento m\u00e1s abundante en la corteza terrestre,\u200b y el cuarto elemento m\u00e1s abundante en el universo en masa despu\u00e9s del hidr\u00f3geno, el helio y el ox\u00edgeno. La abundancia del carbono, su diversidad \u00fanica de compuestos org\u00e1nicos y su inusual capacidad para formar pol\u00edmeros a las temperaturas com\u00fanmente encontradas en la Tierra, permite que este elemento sirva como componente com\u00fan de toda la vida conocida. Es el segundo elemento m\u00e1s abundante en el cuerpo humano en masa (aproximadamente el 18,5%) despu\u00e9s del ox\u00edgeno.\u200b\nLos \u00e1tomos de carbono pueden unirse de diferentes maneras, denominadas al\u00f3tropos del carbono, reflejo de las condiciones de formaci\u00f3n. Los m\u00e1s conocidos que ocurren naturalmente son el grafito, el diamante y el carbono amorfo.\u200b Las propiedades f\u00edsicas del carbono var\u00edan ampliamente con la forma alotr\u00f3pica. Por ejemplo, el grafito es opaco y negro, mientras que el diamante es altamente transparente. El grafito es lo suficientemente blando como para formar una raya en el papel (de ah\u00ed su nombre, del verbo griego \"\u03b3\u03c1\u03ac\u03c6\u03b5\u03b9\u03bd\" que significa 'escribir'), mientras que el diamante es el material natural m\u00e1s duro conocido. El grafito es un buen conductor el\u00e9ctrico mientras que el diamante tiene una baja conductividad el\u00e9ctrica. En condiciones normales, el diamante, los nanotubos de carbono y el grafeno tienen las conductividades t\u00e9rmicas m\u00e1s altas de todos los materiales conocidos. Todos los al\u00f3tropos del carbono son s\u00f3lidos en condiciones normales, siendo el grafito la forma termodin\u00e1micamente estable. Son qu\u00edmicamente resistentes y requieren altas temperaturas para reaccionar incluso con ox\u00edgeno.\nEl estado de oxidaci\u00f3n m\u00e1s com\u00fan del carbono en los compuestos inorg\u00e1nicos es +4, mientras que +2 se encuentra en el mon\u00f3xido de carbono y en complejos carbonilos de metales de transici\u00f3n. Las mayores fuentes de carbono inorg\u00e1nico son las calizas, dolomitas y di\u00f3xido de carbono, pero cantidades significativas se producen en dep\u00f3sitos org\u00e1nicos de carb\u00f3n, turba, petr\u00f3leo y clatratos de metano. El carbono forma un gran n\u00famero de compuestos, m\u00e1s que cualquier otro elemento, con casi diez millones de compuestos descritos hasta la fecha\u200b (con 500.000 compuestos nuevos por a\u00f1o), siendo sin embargo ese n\u00famero solo una fracci\u00f3n del n\u00famero de compuestos te\u00f3ricamente posibles bajo condiciones est\u00e1ndar. Por esta raz\u00f3n, a menudo el carbono se ha descrito como el \u00abrey de los elementos\u00bb.\u200b\nLa combusti\u00f3n del carbono en todas sus formas ha sido la base del desarrollo tecnol\u00f3gico desde tiempos prehist\u00f3ricos. Los materiales basados en el carbono tienen aplicaciones en numerosas \u00e1reas de vanguardia tecnol\u00f3gica: materiales compuestos, bater\u00edas de iones de litio, descontaminaci\u00f3n del aire y del agua, electrodos para hornos de arco, en la s\u00edntesis de aluminio, etc.",
+            "https://es.wikipedia.org/wiki/Carbono"
+        ],
+        "appareance": null,
+        "category": "polyatomic nonmetal",
+        "phase": "S\u00f3lido",
+        "category_t": "No metal poliat\u00f3mico"
+    },
+    "N": {
+        "name": "Nitr\u00f3geno",
+        "summary": [
+            "El nitr\u00f3geno es un elemento qu\u00edmico de n\u00famero at\u00f3mico 7, s\u00edmbolo N, su masa at\u00f3mica es de 14,0067 y que en condiciones normales forma un gas diat\u00f3mico (nitr\u00f3geno diat\u00f3mico o molecular) que constituye del orden del 78 % del aire atmosf\u00e9rico.\u200b Antiguamente era llamado \u00e1zoe (s\u00edmbolo Az).\nEl nitr\u00f3geno es el miembro m\u00e1s ligero del grupo 15 de la tabla peri\u00f3dica, a menudo llamado pnic\u00f3geno. Es un elemento com\u00fan en el universo, que se estima en aproximadamente s\u00e9ptimo en abundancia total en la V\u00eda L\u00e1ctea y el Sistema Solar. A temperatura y presi\u00f3n est\u00e1ndar, dos \u00e1tomos del elemento se unen para formar dinitr\u00f3geno, un gas incoloro e inodoro  de f\u00f3rmula N2. El dinitr\u00f3geno forma alrededor del 78% de la Atm\u00f3sfera  terrestre, lo que lo convierte en el elemento no combinado m\u00e1s abundante. El nitr\u00f3geno est\u00e1 presente en todos los organismos, principalmente en los amino\u00e1cidos (y por tanto en las prote\u00ednas), en los \u00e1cidos nucleicos (ADN y ARN) y en la mol\u00e9cula de transferencia de energ\u00eda trifosfato de adenosina.  El cuerpo humano contiene alrededor de un 3% de nitr\u00f3geno en masa, el cuarto elemento m\u00e1s abundante en el cuerpo despu\u00e9s del ox\u00edgeno, el carbono y el hidr\u00f3geno. El ciclo del nitr\u00f3geno describe el movimiento del elemento desde el aire, hacia la biosfera y los compuestos org\u00e1nicos, y luego de vuelta a la atm\u00f3sfera.\nMuchos compuestos de importancia industrial, como el amoniaco, el \u00e1cido n\u00edtrico, los nitratos org\u00e1nicos (propulsores y explosivos) y el cianuro, contienen nitr\u00f3geno. El fort\u00edsimo triple enlace del nitr\u00f3geno elemental (N\u2261N), el segundo enlace m\u00e1s fuerte de cualquier mol\u00e9cula diat\u00f3mica despu\u00e9s del mon\u00f3xido de carbono (CO),\u200b domina la qu\u00edmica del nitr\u00f3geno. Esto provoca dificultades tanto para los organismos como para la industria a la hora de convertir el N2 en compuestos \u00fatiles, pero al mismo tiempo significa que la quema, la explosi\u00f3n o la descomposici\u00f3n de los compuestos de nitr\u00f3geno para formar gas nitr\u00f3geno liberan grandes cantidades de energ\u00eda a menudo \u00fatil. El amoniaco y los nitratos producidos sint\u00e9ticamente son fertilizantes clave para la industria, y los nitratos de los fertilizantes son contaminantes clave en la eutrofizaci\u00f3n de los sistemas acu\u00e1ticos.\nAparte de su uso en fertilizantes y almacenes de energ\u00eda, el nitr\u00f3geno es un constituyente de compuestos org\u00e1nicos tan diversos como el Kevlar utilizado en tejidos de alta resistencia y el cianoacrilato utilizado en el superglue. El nitr\u00f3geno es un constituyente de todas las principales clases de f\u00e1rmacos, incluidos los antibi\u00f3ticos. Muchos f\u00e1rmacos son imitaciones o prof\u00e1rmacos de las mol\u00e9culas naturales de se\u00f1alizaci\u00f3n celular que contienen nitr\u00f3geno: por ejemplo, los nitratos org\u00e1nicos nitroglicerina y nitroprusiato controlan la presi\u00f3n arterial al metabolizarse en \u00f3xido n\u00edtrico. Muchas drogas notables que contienen nitr\u00f3geno, como la cafe\u00edna natural y la morfina o las anfetaminas sint\u00e9ticas, act\u00faan sobre los receptores de los neurotransmisores animales.",
+            "https://es.wikipedia.org/wiki/Nitr%C3%B3geno"
+        ],
+        "appareance": "gas incoloro, l\u00edquido o s\u00f3lido",
+        "category": "diatomic nonmetal",
+        "phase": "Gas",
+        "category_t": "No metal diat\u00f3mico"
+    },
+    "O": {
+        "name": "Ox\u00edgeno",
+        "summary": [
+            "El ox\u00edgeno es un elemento qu\u00edmico de n\u00famero at\u00f3mico 8 y representado por el s\u00edmbolo O. Su nombre proviene de las ra\u00edces griegas \u1f40\u03be\u03cd\u03c2 (oxys) (\u2018\u00e1cido\u2019, literalmente \u2018punzante\u2019, en referencia al sabor de los \u00e1cidos) y \u2013\u03b3\u03cc\u03bd\u03bf\u03c2 (-gonos) (\u2018productor\u2019, literalmente \u2018engendrador\u2019; es decir, \"productor de \u00e1cidos\"\u200b), porque en la \u00e9poca en que se le dio esta denominaci\u00f3n se cre\u00eda, incorrectamente, que todos los \u00e1cidos requer\u00edan ox\u00edgeno para su composici\u00f3n. En condiciones normales de presi\u00f3n y temperatura, dos \u00e1tomos del elemento se enlazan para formar el diox\u00edgeno, un gas diat\u00f3mico incoloro, inodoro e ins\u00edpido con f\u00f3rmula O2. Esta sustancia constituye una importante parte de la atm\u00f3sfera y resulta necesaria para sostener la vida terrestre.\nForma parte del grupo de los anf\u00edgenos en la tabla peri\u00f3dica y es un elemento no met\u00e1lico altamente reactivo que forma f\u00e1cilmente compuestos (especialmente \u00f3xidos) con la mayor\u00eda de elementos, excepto con los gases nobles helio y ne\u00f3n. Asimismo, es un fuerte agente oxidante y tiene la segunda electronegatividad m\u00e1s alta de todos los elementos, solo superada por el fl\u00faor.\u200b Medido por su masa, el ox\u00edgeno es el tercer elemento m\u00e1s abundante del universo, tras el hidr\u00f3geno y el helio,\u200b y el m\u00e1s abundante en la corteza terrestre ya que forma, pr\u00e1cticamente, la mitad de su masa.\u200b Debido a su reactividad qu\u00edmica, no puede permanecer en la atm\u00f3sfera terrestre como elemento libre sin ser reabastecido constantemente por la acci\u00f3n fotosint\u00e9tica de los organismos que utilizan la energ\u00eda solar para producir ox\u00edgeno elemental a partir del agua. El ox\u00edgeno elemental O2 solamente empez\u00f3 a acumularse en la atm\u00f3sfera despu\u00e9s de la aparici\u00f3n de estos organismos, aproximadamente hace 2500 millones de a\u00f1os.\u200b El ox\u00edgeno diat\u00f3mico constituye el 20,8 % del volumen de la atm\u00f3sfera terrestre.\u200b\nDado que constituye la mayor parte de la masa del agua, es tambi\u00e9n el componente mayoritario de la masa de los seres vivos. Muchas de las mol\u00e9culas m\u00e1s importantes que forman parte de los seres vivos, como las prote\u00ednas, los \u00e1cidos nucleicos, los carbohidratos y los l\u00edpidos, contienen ox\u00edgeno, as\u00ed como los principales compuestos inorg\u00e1nicos que forman los caparazones, dientes y huesos animales. El ox\u00edgeno elemental se produce por cianobacterias, algas y plantas y todas las formas complejas de vida lo usan para su respiraci\u00f3n celular. Resulta t\u00f3xico para los organismos de tipo anaerobio obligado, las formas tempranas de vida que predominaban en la Tierra hasta que el O2 comenz\u00f3 a acumularse en la atm\u00f3sfera. Otra forma (al\u00f3tropa) del ox\u00edgeno, el ozono (O3), ayuda a proteger la biosfera de la radiaci\u00f3n ultravioleta a gran altitud, en la llamada capa de ozono, pero es contaminante cerca de la superficie, donde es un subproducto del esmog. A altitudes a\u00fan mayores de la \u00f3rbita baja terrestre, el ox\u00edgeno at\u00f3mico tiene una presencia significativa y causa erosi\u00f3n en las naves espaciales.\u200b\nCarl Wilhelm Scheele descubri\u00f3 el ox\u00edgeno de forma independiente en Upsala en 1773, o incluso antes, y Joseph Priestley, en Wiltshire en 1774, pero el honor suele adjudic\u00e1rsele a Priestley debido a que public\u00f3 su trabajo antes. Antoine Lavoisier, cuyas investigaciones ayudaron a desacreditar la entonces popular teor\u00eda del flogisto de combusti\u00f3n y corrosi\u00f3n, acu\u00f1\u00f3 el nombre \u00abox\u00edgeno\u00bb en 1777.\u200b Este se produce industrialmente mediante la destilaci\u00f3n fraccionada de aire licuado, el uso de zeolita con ciclos de presi\u00f3n para concentrar el ox\u00edgeno del aire, la electr\u00f3lisis del agua y otros medios. El ox\u00edgeno se utiliza en la producci\u00f3n de acero, pl\u00e1sticos y textiles; los propulsores de cohetes; la oxigenoterapia; y la asistencia para la respiraci\u00f3n en aeronaves, submarinos, vuelos espaciales y submarinismo.",
+            "https://es.wikipedia.org/wiki/Ox%C3%ADgeno"
+        ],
+        "appareance": null,
+        "category": "diatomic nonmetal",
+        "phase": "Gas",
+        "category_t": "No metal diat\u00f3mico"
+    },
+    "F": {
+        "name": "Fl\u00faor",
+        "summary": [
+            "El fl\u00faor es el elemento qu\u00edmico de n\u00famero at\u00f3mico 9 situado en el grupo de los hal\u00f3genos (grupo 17) de la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es F.\nEs un gas a temperatura ambiente, de color verde p\u00e1lido, formado por mol\u00e9culas diat\u00f3micas F2. Es el m\u00e1s electronegativo y reactivo de todos los elementos. En forma pura es altamente peligroso, causando graves quemaduras qu\u00edmicas al contacto con la piel.",
+            "https://es.wikipedia.org/wiki/Fl%C3%BAor"
+        ],
+        "appareance": null,
+        "category": "diatomic nonmetal",
+        "phase": "Gas",
+        "category_t": "No metal diat\u00f3mico"
+    },
+    "Ne": {
+        "name": "Ne\u00f3n",
+        "summary": [
+            "El ne\u00f3n es un elemento qu\u00edmico de n\u00famero at\u00f3mico 10 y s\u00edmbolo Ne. Es un gas noble, incoloro, pr\u00e1cticamente inerte, presente en trazas en el aire, pero muy abundante en el universo, que proporciona un tono rojizo caracter\u00edstico a la luz de las l\u00e1mparas fluorescentes en las que se emplea.",
+            "https://es.wikipedia.org/wiki/Ne%C3%B3n"
+        ],
+        "appareance": "gas incoloro que exhibe un brillo rojo anaranjado cuando se coloca en un campo el\u00e9ctrico de alto voltaje",
+        "category": "noble gas",
+        "phase": "Gas",
+        "category_t": "Gas noble"
+    },
+    "Na": {
+        "name": "Sodio",
+        "summary": [
+            "El sodio es un elemento qu\u00edmico de s\u00edmbolo Na  con n\u00famero at\u00f3mico 11 que fue descubierto   en 1807. Es un metal alcalino blando, untuoso, de color plateado, muy abundante en la naturaleza, encontr\u00e1ndose en la sal marina. Es muy reactivo, arde con llama amarilla, se oxida en presencia de ox\u00edgeno y reacciona violentamente con el agua.\nEl sodio est\u00e1 presente en grandes cantidades en el oc\u00e9ano en forma i\u00f3nica. Tambi\u00e9n es un componente de muchos minerales y un elemento esencial para la vida.",
+            "https://es.wikipedia.org/wiki/Sodio"
+        ],
+        "appareance": "blanco plateado metalizado",
+        "category": "alkali metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal alcalino"
+    },
+    "Mg": {
+        "name": "Magnesio",
+        "summary": [
+            "El magnesio es el elemento qu\u00edmico de s\u00edmbolo Mg y n\u00famero at\u00f3mico 12. Su masa at\u00f3mica es de 24,305 u. Es el octavo elemento en abundancia en el orden del  % de la corteza terrestre y el tercero m\u00e1s abundante disuelto en el agua de mar. El ion de magnesio es esencial para todas las c\u00e9lulas vivas. El metal puro no se encuentra en la naturaleza. Una vez producido a partir de las sales de magnesio, este metal alcalino-t\u00e9rreo es utilizado como un elemento de aleaci\u00f3n.",
+            "https://es.wikipedia.org/wiki/Magnesio"
+        ],
+        "appareance": "s\u00f3lido gris brillante",
+        "category": "alkaline earth metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal alcalinot\u00e9rreo"
+    },
+    "Al": {
+        "name": "Alum\u00ednio",
+        "summary": [
+            "El aluminio es un elemento qu\u00edmico, de s\u00edmbolo Al y n\u00famero at\u00f3mico 13. Se trata de un metal no ferromagn\u00e9tico. Es el tercer elemento m\u00e1s com\u00fan encontrado en la corteza terrestre. Los compuestos de aluminio forman el 8 % de la corteza de la tierra y se encuentran presentes en la mayor\u00eda de las rocas, de la vegetaci\u00f3n y de los animales.\u200b En estado natural se encuentra en muchos silicatos (feldespatos, plagioclasas y micas). Este metal se extrae \u00fanicamente del mineral conocido con el nombre de bauxita, por transformaci\u00f3n primero en al\u00famina mediante el proceso Bayer y a continuaci\u00f3n en aluminio met\u00e1lico mediante electr\u00f3lisis.\nEste metal posee una combinaci\u00f3n de propiedades que lo hacen muy \u00fatil en ingenier\u00eda de materiales, tales como su baja densidad (2698,4 kg/m\u00b3) y su alta resistencia a la corrosi\u00f3n. Mediante aleaciones adecuadas se puede aumentar sensiblemente su resistencia mec\u00e1nica (hasta los 690 MPa). Es buen conductor de la electricidad y del calor, se mecaniza con facilidad y es muy barato. Por todo ello es desde mediados del siglo XX\u200b es el metal que m\u00e1s se utiliza despu\u00e9s del acero.\nFue aislado por primera vez en 1825 por el f\u00edsico dan\u00e9s H. C. \u00d8rsted. El principal inconveniente para su obtenci\u00f3n reside en la elevada cantidad de energ\u00eda el\u00e9ctrica que requiere su producci\u00f3n. Este problema se compensa por su bajo coste de reciclado, su extendida vida \u00fatil y la estabilidad de su precio.",
+            "https://es.wikipedia.org/wiki/Aluminio"
+        ],
+        "appareance": "gris plateado metalizado",
+        "category": "post-transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal posterior a la transici\u00f3n"
+    },
+    "Si": {
+        "name": "Silicio",
+        "summary": [
+            "El silicio (del lat\u00edn: s\u00edlex) es un elemento qu\u00edmico metaloide, n\u00famero at\u00f3mico 14 y situado en el grupo 14 de la tabla peri\u00f3dica de los elementos de s\u00edmbolo Si.\u200b Es el segundo elemento m\u00e1s abundante en la corteza terrestre (25.7 % en peso)\u200b despu\u00e9s del ox\u00edgeno. Se presenta en forma amorfa y cristalizada; el primero es un polvo parduzco, m\u00e1s activo que la variante cristalina, que se presenta en octaedros de color azul gris\u00e1ceo y brillo met\u00e1lico.",
+            "https://es.wikipedia.org/wiki/Silicio"
+        ],
+        "appareance": "cristalino, reflectante con caras te\u00f1idas de azul",
+        "category": "metalloid",
+        "phase": "S\u00f3lido",
+        "category_t": "Metaloide"
+    },
+    "P": {
+        "name": "F\u00f3sforo",
+        "summary": [
+            "El f\u00f3sforo es un elemento qu\u00edmico de n\u00famero at\u00f3mico 15 y s\u00edmbolo P. El nombre proviene del griego \u03c6\u03ce\u03c2  \u2018luz\u2019 y \u03c6\u03cc\u03c1\u03bf\u03c2  \u2018portador\u2019. Es un no metal multivalente perteneciente al grupo del nitr\u00f3geno (Grupo 15 (VA): nitrogenoideos) que se encuentra en la naturaleza combinado en fosfatos inorg\u00e1nicos y en organismos vivos pero nunca en estado fundamental. Es muy reactivo y se oxida espont\u00e1neamente en contacto con el ox\u00edgeno atmosf\u00e9rico emitiendo luz.\nEs un ciclo sedimentario, su reservorio es la corteza terrestre. El elemento se almacena en rocas fosfatadas y a medida que estas son erosionadas se van liberando compuestos fosfatados hacia el suelo y el agua. Luego son absorbidos por las plantas, a trav\u00e9s de las ra\u00edces, incorpor\u00e1ndose a los componentes vivos del sistema, a medida que pasan por los distintos niveles tr\u00f3ficos. Una vez que los organismos (plantas o animales) mueren, se descomponen y se libera el f\u00f3sforo contenido en la materia org\u00e1nica.",
+            "https://es.wikipedia.org/wiki/F%C3%B3sforo"
+        ],
+        "appareance": "incoloro, blanco ceroso, amarillo, escarlata, rojo, violeta, negro",
+        "category": "polyatomic nonmetal",
+        "phase": "S\u00f3lido",
+        "category_t": "No metal poliat\u00f3mico"
+    },
+    "S": {
+        "name": "Azufre",
+        "summary": [
+            "El azufre es un elemento qu\u00edmico de n\u00famero at\u00f3mico 16 y s\u00edmbolo S (del lat\u00edn sulphur). Es un no metal abundante con un color amarillo caracter\u00edstico.\u200b Dicho elemento es generado en estrellas masivas en las que predominan temperaturas que provocan la fusi\u00f3n entre un n\u00facleo de silicio y otro de helio en un proceso denominado nucleos\u00edntesis de supernovas.\u200b\nEl azufre se encuentra en forma nativa en regiones volc\u00e1nicas y en sus formas reducidas formando sulfuros y sulfosales o bien en sus formas oxidadas como sulfatos. Es un elemento qu\u00edmico esencial constituyente de los amino\u00e1cidos cisteina y metionina\u200b y, por consiguiente, necesario para la s\u00edntesis de prote\u00ednas presentes en todos los organismos vivos. Se usa principalmente como fertilizante, pero tambi\u00e9n en la fabricaci\u00f3n de p\u00f3lvora, laxantes, f\u00f3sforos e insecticidas.",
+            "https://es.wikipedia.org/wiki/Azufre"
+        ],
+        "appareance": "microcristales sinterizados de color amarillo lim\u00f3n",
+        "category": "polyatomic nonmetal",
+        "phase": "S\u00f3lido",
+        "category_t": "No metal poliat\u00f3mico"
+    },
+    "Cl": {
+        "name": "Cloro",
+        "summary": [
+            "El cloro es un elemento qu\u00edmico de n\u00famero at\u00f3mico 17 situado en el grupo de los hal\u00f3genos (grupo VIIA) de la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es Cl. En condiciones normales y en estado puro forma dicloro: un gas t\u00f3xico amarillo-verdoso formado por mol\u00e9culas diat\u00f3micas (Cl2) unas 2,5 veces m\u00e1s pesado que el aire, de olor desagradable y t\u00f3xico. Es un elemento abundante en la naturaleza y se trata de un elemento qu\u00edmico esencial para muchas formas de vida.",
+            "https://es.wikipedia.org/wiki/Cloro"
+        ],
+        "appareance": "gas amarillo verdoso p\u00e1lido",
+        "category": "diatomic nonmetal",
+        "phase": "Gas",
+        "category_t": "No metal diat\u00f3mico"
+    },
+    "Ar": {
+        "name": "Arg\u00f3n",
+        "summary": [
+            "El arg\u00f3n es un elemento qu\u00edmico de n\u00famero at\u00f3mico 18 y s\u00edmbolo Ar. Es el tercero de los gases nobles, incoloro e inerte como ellos, constituye el 0,934 % del aire seco. Su nombre proviene del griego \u1f00\u03c1\u03b3\u03cc\u03c2 , que significa inactivo (debido a que no reacciona).\u200b\u200b\u200b\u200b",
+            "https://es.wikipedia.org/wiki/Arg%C3%B3n"
+        ],
+        "appareance": "gas incoloro que exhibe un brillo lila/violeta cuando se coloca en un campo el\u00e9ctrico de alto voltaje",
+        "category": "noble gas",
+        "phase": "Gas",
+        "category_t": "Gas noble"
+    },
+    "K": {
+        "name": "Potasio",
+        "summary": [
+            "El potasio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo qu\u00edmico es K (del lat\u00edn Kalium y del \u00e1rabe. \u0627\u0644\u0642\u0644\u064a\u0629, DMG al-qalya, \"ceniza de plantas\"), cuyo n\u00famero at\u00f3mico es 19. Es un metal alcalino de color blanco-plateado, que abunda en la naturaleza en los elementos relacionados con el agua salada y otros minerales. Se oxida r\u00e1pidamente en el aire, es muy reactivo, especialmente en agua, y se parece qu\u00edmicamente al sodio.",
+            "https://es.wikipedia.org/wiki/Potasio"
+        ],
+        "appareance": "gris plateado",
+        "category": "alkali metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal alcalino"
+    },
+    "Ca": {
+        "name": "Calcio",
+        "summary": [
+            "El calcio (del lat\u00edn calx, calis, cal) es un elemento qu\u00edmico, de s\u00edmbolo Ca y de n\u00famero at\u00f3mico 20. Su masa at\u00f3mica es 40,078 u. El calcio es un metal blando, gris\u00e1ceo, y es el quinto m\u00e1s abundante en masa de la corteza terrestre. Tambi\u00e9n es el ion m\u00e1s abundante disuelto en el agua de mar, tanto como por su molaridad y como por su masa, despu\u00e9s del sodio, cloruros, magnesio y sulfatos.\u200b\nSe encuentra en el medio interno de los organismos como ion calcio (Ca2+) o formando parte de otras mol\u00e9culas; en algunos seres vivos se halla precipitado en forma de esqueleto interno (huesos de los vertebrados) o externo (concha de los moluscos). Los iones de calcio act\u00faan de cofactor en muchas reacciones enzim\u00e1ticas, intervienen en el metabolismo del gluc\u00f3geno y, junto al potasio y el sodio, regulan la contracci\u00f3n muscular. El porcentaje de calcio en los organismos es variable y depende de las especies, pero por t\u00e9rmino medio representa el 2,45 % en el conjunto de los seres vivos; en los vegetales, solo representa el 0,007 %.\nEn el habla vulgar se utiliza la voz calcio para referirse a sus sales por ejemplo, esta agua tiene mucho calcio; en las tuber\u00edas se deposita mucho calcio, etc.",
+            "https://es.wikipedia.org/wiki/Calcio"
+        ],
+        "appareance": null,
+        "category": "alkaline earth metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal alcalinot\u00e9rreo"
+    },
+    "Sc": {
+        "name": "Escandio",
+        "summary": [
+            "El escandio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Sc y su n\u00famero at\u00f3mico es 21. Es un metal de transici\u00f3n que se encuentra en minerales de Escandinavia y que se clasifica con frecuencia entre los lant\u00e1nidos por sus similitudes con ellos.\u200b\u200b\nEs un elemento de bloque D met\u00e1lico de color blanco plateado, hist\u00f3ricamente se ha clasificado como un elemento de tierras raras,\u200b junto con el itrio y los lant\u00e1nidos . Fue descubierto en 1879 mediante an\u00e1lisis espectral de los minerales euxenita y gadolinita de Escandinavia.\nEl escandio est\u00e1 presente en la mayor\u00eda de los dep\u00f3sitos de compuestos de tierras raras y de uranio, pero se extrae de estos minerales solo en unas pocas minas en todo el mundo. Debido a la baja disponibilidad y las dificultades en la preparaci\u00f3n del escandio met\u00e1lico, que se realiz\u00f3 por primera vez en 1937, las aplicaciones del escandio no se desarrollaron hasta la d\u00e9cada de 1970, cuando se descubrieron los efectos positivos del escandio en las aleaciones de aluminio y su uso en dichas aleaciones. Sigue siendo su \u00fanica aplicaci\u00f3n importante. El comercio mundial de \u00f3xido de escandio es de 15 a 20 toneladas por a\u00f1o.\u200b\nLas propiedades de los compuestos de escandio son intermedias entre las del aluminio y el itrio . Existe una relaci\u00f3n diagonal entre el comportamiento del magnesio y el escandio, al igual que existe entre el berilio y el aluminio. En los compuestos qu\u00edmicos de los elementos del grupo 3, el estado de oxidaci\u00f3n predominante es +3.",
+            "https://es.wikipedia.org/wiki/Escandio"
+        ],
+        "appareance": "blanco plateado",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Ti": {
+        "name": "Titanio",
+        "summary": [
+            "El titanio es un elemento qu\u00edmico de s\u00edmbolo Ti y n\u00famero at\u00f3mico 22 que se sit\u00faa en el grupo 4 de la tabla peri\u00f3dica de los elementos. Es un metal de transici\u00f3n de color gris, baja densidad y gran dureza. Es muy resistente a la corrosi\u00f3n por agua del mar, agua regia y cloro.\nFue descubierto independientemente en 1791 por William Gregor en una mina de Cornualles, Gran Breta\u00f1a, y en 1795 por Martin Heinrich Klaproth, que lo nombr\u00f3 \u00abtitanio\u00bb por los titanes de la mitolog\u00eda griega. Este elemento abunda en dep\u00f3sitos de minerales, principalmente en forma de \u00f3xidos como el rutilo y la ilmenita, ampliamente distribuidos en la corteza terrestre y la litosfera; tambi\u00e9n se encuentra en los seres vivos, cuerpos de agua y objetos extraterrestres.\u200b La extracci\u00f3n de este metal a partir del mineral se realiza mediante el m\u00e9todo de Kroll\u200b o por el m\u00e9todo de Hunter. El compuesto m\u00e1s com\u00fan es el di\u00f3xido de titanio, utilizado para la fotocat\u00e1lisis y la fabricaci\u00f3n de pigmentos de color blanco.\u200b Otros compuestos habituales incluyen el tetracloruro de titanio (TiCl4), un componente catalizador, y el tricloruro de titanio (TiCl3), que se utiliza como catalizador en la producci\u00f3n de polipropileno.\u200b\nEn estado puro, presenta una elevada resistencia a la corrosi\u00f3n y la mayor proporci\u00f3n de dureza-densidad de todos los elementos met\u00e1licos.\u200b El titanio es tan fuerte como algunos aceros, pero su densidad es menor.\u200b Tiene dos formas alotr\u00f3picas\u200b y cinco is\u00f3topos naturales que van desde 46Ti hasta 50Ti, siendo 48Ti el m\u00e1s abundante de ellos.\u200b\nEl titanio puede formar aleaciones con el hierro, el aluminio, el vanadio y el molibdeno entre otros elementos, id\u00f3neas por sus propiedades de ligereza y resistencia para la construcci\u00f3n de maquinaria para aplicaciones aeroespaciales \u2014motores de reacci\u00f3n, misiles y naves espaciales\u2014, militares, industriales \u2014almacenamiento y transporte de productos qu\u00edmicos y petroqu\u00edmicos, y plantas de desalinizaci\u00f3n\u2014, en la automoci\u00f3n, para pr\u00f3tesis m\u00e9dicas e implantes ortop\u00e9dicos, instrumentos e implantes dentales, aparatos deportivos, joyer\u00eda o tel\u00e9fonos m\u00f3viles.\u200b",
+            "https://es.wikipedia.org/wiki/Titanio"
+        ],
+        "appareance": "plateado gris-blanco metalizado",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "V": {
+        "name": "Vanadio",
+        "summary": [
+            "El vanadio es un elemento qu\u00edmico de n\u00famero at\u00f3mico 23 situado en el grupo 5 de la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es V. Es un metal d\u00factil, pero duro, poco abundante. Se encuentra en distintos minerales y se emplea principalmente en algunas aleaciones. El nombre procede de la diosa de la belleza Vanadis en la mitolog\u00eda n\u00f3rdica.\nEs un metal de color blanco agrisado, maleable y de transici\u00f3n d\u00factil. La formaci\u00f3n de una capa de \u00f3xido del metal estabiliza al elemento contra la oxidaci\u00f3n.\nEl elemento se encuentra naturalmente en minerales; hay cerca de sesenta y cinco diferentes tipos y en los dep\u00f3sitos de combustibles f\u00f3siles. Los m\u00e1s representativos son la patronita (un sulfuro complejo), la vanadinita  y carnotita . Este \u00faltimo es m\u00e1s importante como mineral de uranio, pero tambi\u00e9n se puede recuperar el vanadio. Se produce en China y Rusia, otros pa\u00edses lo producen o bien por el polvo de combusti\u00f3n de aceite pesado, o como un subproducto de la miner\u00eda de uranio. Se utiliza principalmente para producir aleaciones de aceros especiales, tales como aceros para herramientas de alta velocidad. El pent\u00f3xido de vanadio se utiliza como catalizador para la producci\u00f3n de \u00e1cido sulf\u00farico. El vanadio se encuentra en muchos organismos, y es utilizado por algunas formas de vida como un centro activo de las enzimas.",
+            "https://es.wikipedia.org/wiki/Vanadio"
+        ],
+        "appareance": "metal azul-plata-gris",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Cr": {
+        "name": "Cromo",
+        "summary": [
+            "El cromo es un elemento qu\u00edmico de n\u00famero at\u00f3mico 24 que se encuentra en el grupo 6 de la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es Cr. Es un metal que se emplea especialmente en metalurgia. Su nombre cromo (derivado del griego chroma, \u2018color\u2019) se debe a los distintos colores que presentan sus compuestos.",
+            "https://es.wikipedia.org/wiki/Cromo"
+        ],
+        "appareance": "metalizado plateado",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Mn": {
+        "name": "Manganesio",
+        "summary": [
+            "El manganeso es un elemento qu\u00edmico de n\u00famero at\u00f3mico 25 situado en el grupo 7 de la tabla peri\u00f3dica de los elementos y se simboliza como Mn.\u200b\u200b Se encuentra como elemento libre en la naturaleza, a menudo en combinaci\u00f3n con el hierro y en muchos minerales. Como elemento libre, el manganeso es un metal con aleaci\u00f3n de metales industriales con importantes usos, sobre todo en los aceros inoxidables.\nEl fosfatado de manganeso se utiliza como tratamiento para la prevenci\u00f3n de la oxidaci\u00f3n y corrosi\u00f3n del acero. Dependiendo de su estado de oxidaci\u00f3n, los iones de manganeso tienen colores diferentes y se utilizan industrialmente como pigmentos. Los permanganatos alcalinos y de metales alcalinot\u00e9rreos son oxidantes poderosos. El di\u00f3xido de manganeso se utiliza como c\u00e1todo.\nLos iones de manganeso funcionan como cofactores de una serie de enzimas en los organismos superiores, donde son esenciales en la desintoxicaci\u00f3n de los radicales libres de super\u00f3xido. El elemento es un mineral traza esencial para todos los seres vivos conocidos. En cantidades mayores, y al parecer con una actividad mucho mayor por la inhalaci\u00f3n, el manganeso puede causar un s\u00edndrome de intoxicaci\u00f3n en los mam\u00edferos, con da\u00f1os neurol\u00f3gicos que a veces son irreversibles.",
+            "https://es.wikipedia.org/wiki/Manganeso"
+        ],
+        "appareance": "metalizado plateado",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Fe": {
+        "name": "Hierro",
+        "summary": [
+            "El hierro\u200b\u200b es un elemento qu\u00edmico de n\u00famero at\u00f3mico 26 situado en el grupo 8, periodo 4 de la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es Fe (del lat\u00edn f\u0115rrum)\u200b y tiene una masa at\u00f3mica de 55,847 u.\u200b\u200b\nEste metal de transici\u00f3n es el cuarto elemento m\u00e1s abundante en la corteza terrestre,\u200b representando un 5 % y, entre los metales, solo el aluminio es m\u00e1s abundante,\u200b y es el primero m\u00e1s abundante en masa planetaria, debido a que el planeta, en su n\u00facleo, concentra la mayor masa de hierro nativo, equivalente a un 70 %. El n\u00facleo de la Tierra est\u00e1 formado principalmente por hierro y n\u00edquel en forma met\u00e1lica, generando al moverse un campo magn\u00e9tico. Ha sido hist\u00f3ricamente muy importante, y un per\u00edodo de la historia recibe el nombre de Edad de Hierro. En cosmolog\u00eda, es un metal muy especial, pues es el metal m\u00e1s pesado que puede ser producido por la fusi\u00f3n en el n\u00facleo de estrellas masivas; los elementos m\u00e1s pesados que el hierro solo pueden crearse en supernovas.",
+            "https://es.wikipedia.org/wiki/Hierro"
+        ],
+        "appareance": "metalizado brillante con un tinte gris\u00e1ceo",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Co": {
+        "name": "Cobalto",
+        "summary": [
+            "El cobalto (del alem\u00e1n kobalt, voz derivada de kobolds, los \"Duendes\" que, seg\u00fan los mineros de Sajonia de la Edad Media, eran esp\u00edritus de la tierra que ten\u00edan embrujado el mineral, por lo que, aunque parec\u00eda mena de cobre, no produc\u00eda este elemento con el tratamiento habitual\u200b) es un elemento qu\u00edmico de n\u00famero at\u00f3mico 27 y s\u00edmbolo Co situado en el grupo 9 de la tabla peri\u00f3dica de los elementos.\u200b\u200b\n\n",
+            "https://es.wikipedia.org/wiki/Cobalto"
+        ],
+        "appareance": "metal gris duro y brillante",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Ni": {
+        "name": "N\u00edquel",
+        "summary": [
+            "El n\u00edquel es un elemento qu\u00edmico cuyo n\u00famero at\u00f3mico es 28 y su s\u00edmbolo es Ni, situado en el grupo 10 de la tabla peri\u00f3dica de los elementos.\u200b\u200b",
+            "https://es.wikipedia.org/wiki/N%C3%ADquel"
+        ],
+        "appareance": "lustroso, met\u00e1lico y plateado con un tinte dorado",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Cu": {
+        "name": "Cobre",
+        "summary": [
+            "El cobre (del lat\u00edn cuprum, y este del griego kypros, Chipre),\u200b cuyo s\u00edmbolo es Cu, es el elemento qu\u00edmico de n\u00famero at\u00f3mico 29. Se trata de un metal de transici\u00f3n de color cobrizo, es decir, rojizo anaranjado de brillo met\u00e1lico que, junto con la plata, el oro y el roentgenio forma parte de la llamada familia del cobre, se caracteriza por ser uno de los mejores conductores de electricidad (el segundo despu\u00e9s de la plata). Gracias a su alta conductividad el\u00e9ctrica, ductilidad y maleabilidad, se ha convertido en el material m\u00e1s utilizado para fabricar cables el\u00e9ctricos y otros elementos el\u00e9ctricos y componentes electr\u00f3nicos.\nEl cobre forma parte de una cantidad muy elevada de aleaciones que generalmente presentan mejores propiedades mec\u00e1nicas, aunque tienen una conductividad el\u00e9ctrica menor. Las m\u00e1s importantes son conocidas con el nombre de bronces y latones. Por otra parte, el cobre es un metal duradero porque se puede reciclar un n\u00famero casi ilimitado de veces sin que pierda sus propiedades mec\u00e1nicas.\nFue uno de los primeros metales en ser utilizado por el ser humano en la prehistoria. El cobre y su aleaci\u00f3n con el esta\u00f1o, el bronce, adquirieron tanta importancia que los historiadores han llamado Edad del cobre y Edad del Bronce a dos periodos de la Antig\u00fcedad. Aunque su uso perdi\u00f3 importancia relativa con el desarrollo de la siderurgia, el cobre y sus aleaciones siguieron siendo empleados para hacer objetos tan diversos como monedas, campanas y ca\u00f1ones. A partir del siglo XIX, concretamente de la invenci\u00f3n del generador el\u00e9ctrico en 1831 por Faraday, el cobre se convirti\u00f3 de nuevo en un metal estrat\u00e9gico, al ser la materia prima principal de cables e instalaciones el\u00e9ctricas.\nEl cobre posee un importante papel biol\u00f3gico en el proceso de fotos\u00edntesis de las plantas, aunque no forma parte de la composici\u00f3n de la clorofila. El cobre contribuye a la formaci\u00f3n de gl\u00f3bulos rojos y al mantenimiento de los vasos sangu\u00edneos, nervios, sistema inmunitario y huesos y por tanto es un oligoelemento esencial para la vida humana.\u200b\nEl cobre se encuentra en una gran cantidad de alimentos habituales de la dieta tales como ostras, mariscos, legumbres, v\u00edsceras y nueces entre otros, adem\u00e1s del agua potable y por lo tanto es muy raro que se produzca una deficiencia de cobre en el organismo. El desequilibrio de cobre ocasiona en el organismo una enfermedad hep\u00e1tica conocida como enfermedad de Wilson.\u200b\nEl cobre es el tercer metal m\u00e1s utilizado en el mundo, por detr\u00e1s del hierro y el aluminio. La producci\u00f3n mundial de cobre refinado se estim\u00f3 en 15,8 Mt en el 2006, con un d\u00e9ficit de 10,7 % frente a la demanda mundial proyectada de 17,7 Mt.\u200b Los p\u00f3rfidos cupr\u00edferos constituyen la principal fuente de extracci\u00f3n de cobre en el mundo.\u200b",
+            "https://es.wikipedia.org/wiki/Cobre"
+        ],
+        "appareance": "brillo met\u00e1lico rojo anaranjado",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Zn": {
+        "name": "Zinc",
+        "summary": [
+            "El zinc\u200b (del alem\u00e1n Zink), tambi\u00e9n escrito cinc,\u200b\u200b es un elemento qu\u00edmico esencial de n\u00famero at\u00f3mico 30 y s\u00edmbolo Zn, situado en el grupo 12 de la tabla peri\u00f3dica de los elementos.\u200b",
+            "https://es.wikipedia.org/wiki/Zinc"
+        ],
+        "appareance": "gris-plata",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Ga": {
+        "name": "Galio",
+        "summary": [
+            "El galio es un elemento qu\u00edmico de la tabla peri\u00f3dica de n\u00famero at\u00f3mico 31 y s\u00edmbolo Ga.\u200b\u200b Descubierto por el qu\u00edmico franc\u00e9s Paul \u00c9mile Lecoq de Boisbaudran en 1875,\u200b El galio est\u00e1 en el grupo 13 de la tabla peri\u00f3dica y es similar a los otros metales del grupo como el aluminio, el  indio y el talio.\nEl galio elemental es un metal blando y plateado en temperatura y presi\u00f3n est\u00e1ndar. En su estado l\u00edquido, se vuelve blanco plateado. Si se aplica demasiada fuerza, el galio puede fracturarse de manera concoidea. Desde su descubrimiento en 1875, el galio se ha utilizado ampliamente para hacer  aleaciones con puntos de fusi\u00f3n bajos. Tambi\u00e9n se utiliza en semiconductores, como dopante en sustratos semiconductores.\nEl punto de fusi\u00f3n del galio se utiliza como punto de referencia de la temperatura. Las aleaciones de galio se utilizan en los term\u00f3metros como alternativa no t\u00f3xica y ecol\u00f3gica al mercurio, y pueden soportar temperaturas m\u00e1s altas que \u00e9ste. Un punto de fusi\u00f3n a\u00fan m\u00e1s bajo de \u221219 grados Celsius (\u22122,2 \u00b0F), muy por debajo del punto de congelaci\u00f3n del agua, se afirma para la aleaci\u00f3n galinstano (62-95% de galio, 5-22% de  indio y 0-16% de esta\u00f1o en peso), pero ese puede ser el punto de congelaci\u00f3n con el efecto del  sobreenfriamiento.\u200b\nEl galio no se encuentra como elemento libre en la naturaleza, sino como compuestos de galio(III) en cantidades m\u00ednimas en los minerales de zinc (como la esfalerita) y en la bauxita. El galio elemental es un l\u00edquido a temperaturas superiores a 29,76 grados Celsius (85,6 \u00b0F), y se derrite en las manos de una persona a la temperatura normal del cuerpo humano de 37 grados Celsius (98,6 \u00b0F).\u200b\nEl galio se utiliza principalmente en electr\u00f3nica. El arseniuro de galio, el principal compuesto qu\u00edmico del galio en la electr\u00f3nica, se utiliza en circuitos de microondas, circuitos de conmutaci\u00f3n de alta velocidad y circuitos de infrarrojos. El nitruro de galio semiconductor y el nitruro de galio-indio producen  diodos emisores de luz azules y violetas y  diodos l\u00e1seres. El galio tambi\u00e9n se utiliza en la producci\u00f3n de granate de galio y gadolinio artificial para joyer\u00eda. El galio est\u00e1 considerado como un elemento tecnol\u00f3gico cr\u00edtico por la Biblioteca Nacional de Medicina de Estados Unidos y  Frontiers Media.\u200b\u200b\nEl galio no tiene ning\u00fan papel natural conocido en la biolog\u00eda. El galio(III) se comporta de manera similar a las sales f\u00e9rricas en los sistemas biol\u00f3gicos y se ha utilizado en algunas aplicaciones m\u00e9dicas, incluyendo productos farmac\u00e9uticos y radiof\u00e1rmacos.\u200b",
+            "https://es.wikipedia.org/wiki/Galio"
+        ],
+        "appareance": "blanco plateado",
+        "category": "post-transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal posterior a la transici\u00f3n"
+    },
+    "Ge": {
+        "name": "Germ\u00e1nio",
+        "summary": [
+            "El germanio (lat\u00edn: Germanium) es un elemento qu\u00edmico con n\u00famero at\u00f3mico 32,  y s\u00edmbolo Ge perteneciente al per\u00edodo 4 de la tabla peri\u00f3dica de los elementos.\u200b\u200b\nEs un metaloide blanco gris\u00e1ceo, brillante, duro y quebradizo en el grupo del carbono, qu\u00edmicamente similar a su grupo vecino, el silicio y el esta\u00f1o. El germanio puro es un semiconductor con una apariencia similar al silicio elemental. Al igual que el silicio, el germanio reacciona naturalmente y forma complejos con el ox\u00edgeno en la naturaleza.\nDebido a que rara vez aparece en alta concentraci\u00f3n, el germanio se descubri\u00f3 relativamente tarde en la historia de la qu\u00edmica. El germanio se ubica cerca del quincuag\u00e9simo lugar en  abundancia relativa de los elementos en la corteza terrestre. En 1869, Dmitri Mendel\u00e9yev predijo su existencia y algunas de sus propiedades a partir de su posici\u00f3n en su tabla peri\u00f3dica, y llam\u00f3 al elemento ekasilicio. Casi dos d\u00e9cadas despu\u00e9s, en 1886, Clemens Winkler encontr\u00f3 el nuevo elemento junto con la plata y el azufre, en un mineral poco com\u00fan llamado argirodita . Aunque el nuevo elemento se parec\u00eda un poco al ars\u00e9nico y antimonio en apariencia, las proporciones de combinaci\u00f3n en los compuestos coincidieron con las predicciones de Mendeleyev para un pariente del silicio. Winkler nombr\u00f3 al elemento en honor a su pa\u00eds, Alemania. Hoy en d\u00eda, el germanio se extrae principalmente de la esfalerita (el mineral principal de zinc ), aunque el germanio tambi\u00e9n se recupera comercialmente de los minerales de plata, plomo y cobre.\nEl germanio elemental se utiliza como semiconductor en transistores y otros dispositivos electr\u00f3nicos. Hist\u00f3ricamente, la primera d\u00e9cada de la electr\u00f3nica de semiconductores se bas\u00f3 completamente en germanio. En la actualidad, los principales usos finales son los sistemas de fibra \u00f3ptica, la \u00f3ptica infrarroja , las aplicaciones de c\u00e9lulas solares y los  diodos emisores de luz (LED). Los compuestos de germanio tambi\u00e9n se utilizan para catalizadores de polimerizaci\u00f3n y recientemente han encontrado uso en la producci\u00f3n de nanocables. Este elemento forma una gran cantidad de compuestos de organogermanio , como el tetraetilgermanio , \u00fatiles en qu\u00edmica organomet\u00e1lica. El germanio se considera un elemento cr\u00edtico para la tecnolog\u00eda .\u200b\nNo se cree que el germanio sea un elemento esencial para ning\u00fan organismo vivo. Se est\u00e1n investigando algunos compuestos org\u00e1nicos complejos de germanio como posibles productos farmac\u00e9uticos, aunque ninguno ha tenido \u00e9xito hasta ahora. Al igual que el silicio y el aluminio, los compuestos de germanio naturales tienden a ser insolubles en agua y, por lo tanto, tienen poca toxicidad oral. Sin embargo, las sales de germanio solubles sint\u00e9ticas son nefrot\u00f3xicas y los compuestos de germanio sint\u00e9ticos qu\u00edmicamente reactivos con hal\u00f3genos e hidr\u00f3geno son irritantes y t\u00f3xicos.",
+            "https://es.wikipedia.org/wiki/Germanio"
+        ],
+        "appareance": "blanco gris\u00e1ceo",
+        "category": "metalloid",
+        "phase": "S\u00f3lido",
+        "category_t": "Metaloide"
+    },
+    "As": {
+        "name": "Ars\u00e9nico",
+        "summary": [
+            "El ars\u00e9nico es un elemento qu\u00edmico de la tabla peri\u00f3dica que pertenece al grupo de los metaloides, tambi\u00e9n llamados semimetales; se puede encontrar de diversas formas aunque, raramente, se encuentra en estado s\u00f3lido.\nSe conoce desde la antig\u00fcedad y se reconoce como extremadamente t\u00f3xico. A presi\u00f3n atmosf\u00e9rica, el ars\u00e9nico sublima a 613 \u00b0C.\nEs un elemento esencial para la vida y su deficiencia puede dar lugar a diversas complicaciones; sin embargo, no se conoce con precisi\u00f3n la funci\u00f3n biol\u00f3gica.\u200b\u200b\u200b La ingesta diaria de 12 a 15 \u03bcg puede consumirse sin problemas en la dieta diaria de carnes, pescados, vegetales y cereales; siendo los peces y crust\u00e1ceos los que m\u00e1s contenido de ars\u00e9nico presentan.\nEl ars\u00e9nico (del persa zarnikh, \u2018oropimente amarillo\u2019 o bien del griego arsenik\u00f3n, \u2018masculino\u2019) es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es As y el n\u00famero at\u00f3mico es 33. En la tabla peri\u00f3dica de los elementos se encuentra en el quinto grupo principal. El ars\u00e9nico se presenta raramente s\u00f3lido, principalmente en forma de sulfuros. Pertenece a los metaloides, ya que muestra propiedades intermedias entre los metales de transici\u00f3n y los no metales.\nSe conocen compuestos de ars\u00e9nico desde la antig\u00fcedad, siendo extremadamente t\u00f3xicos, aunque se emplean como componentes en algunos medicamentos. El ars\u00e9nico es usado para la fabricaci\u00f3n de semiconductores y como componente de semiconductores III-V como el arseniuro de galio.\nEl ars\u00e9nico es muy com\u00fan en la atm\u00f3sfera terrestre, en rocas y suelos, en la hidrosfera y la biosfera. Es llevado al ambiente a trav\u00e9s de una combinaci\u00f3n de procesos como: \n\nNaturales como la meteorizaci\u00f3n, actividad biol\u00f3gica, emisiones volc\u00e1nicas\nAntropog\u00e9nicos como la actividad minera, uso de combustibles f\u00f3siles, uso de pesticidas, herbicidas, etc.",
+            "https://es.wikipedia.org/wiki/Ars%C3%A9nico"
+        ],
+        "appareance": "gris metalizado",
+        "category": "metalloid",
+        "phase": "S\u00f3lido",
+        "category_t": "Metaloide"
+    },
+    "Se": {
+        "name": "Selenio",
+        "summary": [
+            "El selenio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Se y su n\u00famero at\u00f3mico 34. Pertenece a la familia de los no metales.\u200b\u200b",
+            "https://es.wikipedia.org/wiki/Selenio"
+        ],
+        "appareance": "al\u00f3tropos negros, rojos y grises (no representados)",
+        "category": "polyatomic nonmetal",
+        "phase": "S\u00f3lido",
+        "category_t": "No metal poliat\u00f3mico"
+    },
+    "Br": {
+        "name": "Bromo",
+        "summary": [
+            "El bromo es un elemento qu\u00edmico de n\u00famero at\u00f3mico 35 situado en el grupo de los hal\u00f3genos (grupo VII A) de la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es Br.\u200b\u200b\nEl bromo a temperatura ambiente es un l\u00edquido rojo, vol\u00e1til y denso. Su reactividad es intermedia entre el cloro y el yodo. En estado l\u00edquido es peligroso para el tejido humano y sus vapores.\nEl bromo elemental es muy reactivo y, por tanto, no se encuentra libre en la naturaleza, sino en  sales minerales cristalinas incoloras de haluro, an\u00e1logas a la sal de mesa. Aunque es bastante raro en la corteza terrestre, la alta solubilidad del ion bromuro (Br-) ha provocado su acumulaci\u00f3n en los oc\u00e9anos. Comercialmente, el elemento se extrae f\u00e1cilmente de los estanques de evaporaci\u00f3n de salmuera, sobre todo en Estados Unidos, Israel y China. La masa de bromo en los oc\u00e9anos es aproximadamente una trescientosava parte de la del cloro.\nEn condiciones normalizadas de presi\u00f3n y temperatura es un l\u00edquido; el \u00fanico otro elemento que es l\u00edquido en estas condiciones es el mercurio. A altas temperaturas, los compuestos de  organobromo se disocian f\u00e1cilmente para dar lugar a \u00e1tomos de bromo libres, un proceso que detiene las reacciones qu\u00edmicas en cadena de los  radicales libres. Este efecto hace que los compuestos de organobromo sean \u00fatiles como retardantes del fuego, y m\u00e1s de la mitad del bromo que se produce cada a\u00f1o en el mundo se destina a este fin. La misma propiedad hace que la luz solar ultravioleta disocie los compuestos organobromados vol\u00e1tiles en la atm\u00f3sfera para dar lugar a \u00e1tomos de bromo libres, lo que provoca el agotamiento del ozono. Por ello, muchos compuestos organobromados -como el pesticida bromuro de metilo- han dejado de utilizarse. Los compuestos de bromo se siguen utilizando en los fluidos de perforaci\u00f3n de pozos, en las pel\u00edculas fotogr\u00e1ficas y como intermedio en la fabricaci\u00f3n de productos qu\u00edmicos org\u00e1nicos.\nLas sales de bromuro en grandes cantidades son t\u00f3xicas por la acci\u00f3n de los iones de bromuro solubles, causando bromismo. Sin embargo, recientemente se ha dilucidado un claro papel biol\u00f3gico para el ion bromuro y el \u00e1cido hipobromoso, y ahora parece que el bromo es un oligoelemento esencial en los seres humanos. El papel de los compuestos biol\u00f3gicos de organobromo en la vida marina, como las algas, se conoce desde hace mucho m\u00e1s tiempo. Como producto farmac\u00e9utico, el ion bromuro simple (Br-) tiene efectos inhibidores sobre el sistema nervioso central, y las sales de bromuro fueron en su d\u00eda un importante sedante m\u00e9dico, antes de ser sustituidas por f\u00e1rmacos de acci\u00f3n m\u00e1s corta. Conservan usos especializados como antiepil\u00e9pticos.",
+            "https://es.wikipedia.org/wiki/Bromo"
+        ],
+        "appareance": null,
+        "category": "diatomic nonmetal",
+        "phase": "L\u00edquido",
+        "category_t": "No metal diat\u00f3mico"
+    },
+    "Kr": {
+        "name": "Cript\u00f3n",
+        "summary": [
+            "El kript\u00f3n o cript\u00f3n\u200b es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Kr y su n\u00famero at\u00f3mico es 36.\u200b\u200b  Es un gas noble incoloro, inodoro e ins\u00edpido que se encuentra en  cantidades m\u00ednimas en la atm\u00f3sfera y este a menudo se utiliza con otros gases raros en  l\u00e1mparas fluorescentes. Con raras excepciones, el cript\u00f3n es  qu\u00edmicamente inerte.\nEl cript\u00f3n, al igual que los dem\u00e1s gases nobles, se utiliza en iluminaci\u00f3n y fotograf\u00eda . La luz de cript\u00f3n tiene muchas l\u00edneas espectrales, y el  plasma de cript\u00f3n es \u00fatil en l\u00e1seres de gas brillantes y de alta potencia como los l\u00e1seres de iones de cript\u00f3n y  excimer, cada uno de los cuales resuena y amplifica una sola l\u00ednea espectral. El  fluoruro de cript\u00f3n tambi\u00e9n constituye un \u00fatil l\u00e1ser medio. De 1960 a 1983, la definici\u00f3n oficial de metro se bas\u00f3 en la longitud de onda de una l\u00ednea espectral de cript\u00f3n-86, debido a la alta potencia y la relativa facilidad de operaci\u00f3n de los  tubos de descarga de cript\u00f3n.",
+            "https://es.wikipedia.org/wiki/Kript%C3%B3n"
+        ],
+        "appareance": "gas incoloro, que exhibe un brillo blanquecino en un campo el\u00e9ctrico alto",
+        "category": "noble gas",
+        "phase": "Gas",
+        "category_t": "Gas noble"
+    },
+    "Rb": {
+        "name": "Rub\u00eddio",
+        "summary": [
+            "El rubidio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es el Rb y su n\u00famero at\u00f3mico es 37.\nEl rubidio es un metal muy blando y de color blanco plateado del grupo de los metales alcalinos. El rubidio met\u00e1lico comparte similitudes con el potasio y el cesio en cuanto a su aspecto f\u00edsico, suavidad y conductividad.\u200b El rubidio no puede almacenarse bajo el ox\u00edgeno atmosf\u00e9rico, ya que se producir\u00eda una reacci\u00f3n altamente exot\u00e9rmica, que a veces incluso provocar\u00eda el incendio del metal.\u200b\nEl rubidio es el primer metal alcalino del grupo que tiene una densidad superior a la del  agua, por lo que | se hunde, a diferencia de los metales que est\u00e1n por encima de \u00e9l en el grupo. El rubidio tiene un peso at\u00f3mico de 85,4678. En la Tierra, el rubidio natural consta de dos is\u00f3topos: el 72 % es un is\u00f3topo estable 85Rb y el 28 % es un is\u00f3topo ligeramente radiactivo 87Rb, con una vida media de 48 800 millones de a\u00f1os, m\u00e1s del triple de la edad estimada del universo.\nLos qu\u00edmicos alemanes Robert Bunsen y Gustav Kirchhoff descubrieron el rubidio en 1861 mediante la t\u00e9cnica reci\u00e9n desarrollada, espectroscopia de llama. El nombre proviene de la palabra en lat\u00edn rubidus, que significa rojo intenso, el color de su espectro de emisi\u00f3n. Los compuestos de rubidio tienen diversas aplicaciones qu\u00edmicas y electr\u00f3nicas. El rubidio met\u00e1lico se vaporiza f\u00e1cilmente y tiene un rango de absorci\u00f3n espectral conveniente, lo que lo convierte en un objetivo frecuente para la manipulaci\u00f3n de l\u00e1seres de \u00e1tomos. El rubidio no es un nutriente conocido para ning\u00fan organismos vivos. Sin embargo, los iones de rubidio tienen propiedades similares y la misma carga que los iones de potasio, y son captados y tratados activamente por las c\u00e9lulas animales de forma similar.",
+            "https://es.wikipedia.org/wiki/Rubidio"
+        ],
+        "appareance": "gris blanco",
+        "category": "alkali metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal alcalino"
+    },
+    "Sr": {
+        "name": "Estroncio",
+        "summary": [
+            "El estroncio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Sr y su n\u00famero at\u00f3mico es 38.",
+            "https://es.wikipedia.org/wiki/Estroncio"
+        ],
+        "appareance": null,
+        "category": "alkaline earth metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal alcalinot\u00e9rreo"
+    },
+    "Y": {
+        "name": "Itrio",
+        "summary": [
+            "El itrio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Y y su n\u00famero at\u00f3mico es 39. Su peso at\u00f3mico es 88,905. Es una tierra rara de transici\u00f3n del grupo IIIB. Es un metal plateado de transici\u00f3n, com\u00fan en los minerales de tierras raras. Dos de sus compuestos se utilizan para hacer el color rojo de los diodos luminiscentes o ledes, usados en los visualizadores (como los televisores en color de rayos cat\u00f3dicos o CRT).",
+            "https://es.wikipedia.org/wiki/Itrio"
+        ],
+        "appareance": "blanco plateado",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Zr": {
+        "name": "Circonio",
+        "summary": [
+            "El circonio o zirconio\u200b es un elemento qu\u00edmico de n\u00famero at\u00f3mico 40 y peso at\u00f3mico 91.224. Situado en el grupo 4 de la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es Zr. El nombre de circonio se toma del mineral circ\u00f3n, la fuente m\u00e1s importante de circonio, y que deriva de la palabra persa \"zargun - \u0632\u0631\u06af\u0648\u0646\", que significa \"dorado\".\u200b\nEs un metal de transici\u00f3n brillante, de color blanco gris\u00e1ceo, duro, resistente a la corrosi\u00f3n, de apariencia similar al acero. Los minerales m\u00e1s importantes en los que se encuentra son el circ\u00f3n (ZrSiO4) y la badeleyita (ZrO2), aunque debido al gran parecido entre el circonio y el hafnio (no hay otros elementos que se parezcan tanto entre s\u00ed) realmente estos minerales son mezclas de los dos; los procesos geol\u00f3gicos no han sido capaces de separarlos. Se utiliza sobre todo en reactores nucleares (por su baja secci\u00f3n de captura de neutrones). Tambi\u00e9n se emplea como refractario y opacificador, como material abrasivo y, en peque\u00f1as cantidades, como agente de aleaci\u00f3n por su fuerte resistencia a la corrosi\u00f3n.",
+            "https://es.wikipedia.org/wiki/Circonio"
+        ],
+        "appareance": "blanco plateado",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Nb": {
+        "name": "Niobio",
+        "summary": [
+            "El niobio es un elemento qu\u00edmico de n\u00famero at\u00f3mico 41 situado en el grupo 5 de la tabla peri\u00f3dica de los elementos. Se simboliza como Nb. Es un metal de transici\u00f3n d\u00factil, gris, blando y poco abundante. Se encuentra en el mineral niobita, tambi\u00e9n llamado columbita, y se utiliza en aleaciones. Se emplea principalmente aleado en aceros, a los cuales confiere una alta resistencia.",
+            "https://es.wikipedia.org/wiki/Niobio"
+        ],
+        "appareance": "gris metalizado, azulado cuando se oxida",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Mo": {
+        "name": "Molibdeno",
+        "summary": [
+            "El molibdeno es un elemento qu\u00edmico de n\u00famero at\u00f3mico 42 que se encuentra en el grupo 6 de la tabla peri\u00f3dica de los elementos y se simboliza como Mo.\u200b\nEl molibdeno es un metal esencial desde el punto de vista biol\u00f3gico y se utiliza sobre todo en aceros aleados.\nEs un metal plateado; tiene el sexto punto de fusi\u00f3n m\u00e1s alto entre los elementos. El molibdeno no se encuentra como metal libre en la naturaleza, sino en varios estados de oxidaci\u00f3n en los minerales. Industrialmente, los compuestos de molibdeno se emplean en aplicaciones de alta presi\u00f3n y alta temperatura, como pigmentos y catalizadores.\nLa mayor\u00eda de los compuestos de molibdeno tienen baja solubilidad en agua, pero el ion de molibdato MoO4-2 es soluble y se forma cuando los minerales que contienen molibdeno est\u00e1n en contacto con el ox\u00edgeno y el agua. Algunas teor\u00edas recientes sugieren que la liberaci\u00f3n de ox\u00edgeno era importante en la eliminaci\u00f3n de molibdeno de un mineral en una forma soluble en los oc\u00e9anos primitivos, donde se utiliza como catalizador de los organismos unicelulares. Esta secuencia puede haber sido importante en la historia de la vida, porque las enzimas que contienen molibdeno se convirtieron en los catalizadores m\u00e1s importantes utilizados por algunas bacterias para descomponer en \u00e1tomos las mol\u00e9culas de nitr\u00f3geno. Esto, a su vez permiti\u00f3 al nitr\u00f3geno impulsar biol\u00f3gicamente la fertilizaci\u00f3n de los oc\u00e9anos, y por lo tanto el desarrollo de organismos m\u00e1s complejos.\nAl menos 50 enzimas que contienen molibdeno son conocidas en bacterias y animales, aunque solo las enzimas de bacterias y cyanobacterias est\u00e1n involucradas en la fijaci\u00f3n de nitr\u00f3geno. Debido a las diversas funciones del resto de las enzimas, el molibdeno es un elemento necesario para la vida en organismos superiores, aunque no en todas las bacterias.",
+            "https://es.wikipedia.org/wiki/Molibdeno"
+        ],
+        "appareance": "gris metalizado",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Tc": {
+        "name": "Tecnecio",
+        "summary": [
+            "El tecnecio es el m\u00e1s ligero de los elementos qu\u00edmicos que no cuentan con is\u00f3topos estables y el primer elemento sint\u00e9tico que se encuentra en la tabla peri\u00f3dica. Su n\u00famero at\u00f3mico es el 43 y su s\u00edmbolo es Tc. Las propiedades qu\u00edmicas de este metal de transici\u00f3n cristalino de color gris plateado son intermedias a las del renio y las del manganeso. Su is\u00f3mero nuclear 99mTc, de muy corta vida y emisor de rayos gamma, se usa en medicina nuclear para efectuar una amplia variedad de pruebas diagn\u00f3sticas. El 99Tc se usa como fuente de part\u00edculas beta libre de la emisi\u00f3n de rayos gamma. El ani\u00f3n pertecnetato (TcO4-) se emplea como inhibidor de corrosi\u00f3n an\u00f3dica para aceros.\u200b\nAntes de que fuera descubierto, muchas de las propiedades del elemento 43 fueron predichas por Dmitri Mendeleev. Mendeleev reserv\u00f3 un espacio en su tabla peri\u00f3dica para un hipot\u00e9tico elemento que llam\u00f3 eka - manganeso. En 1937, el is\u00f3topo 97Tc se convirti\u00f3 en el primer elemento producido de forma predominantemente artificial, de ah\u00ed su nombre (del griego \u03c4\u03b5\u03c7\u03bd\u03b7\u03c4\u03cc\u03c2, que significa \u00abartificial\u00bb). La mayor\u00eda del tecnecio producido en la Tierra se obtiene como subproducto de la fisi\u00f3n del 235U en los reactores nucleares y se extrae de las varillas de combustible nuclear. Ning\u00fan is\u00f3topo del tecnecio posee un periodo de semidesintegraci\u00f3n mayor de 4,2 millones de a\u00f1os (el caso concreto del 98Tc), as\u00ed que su detecci\u00f3n en gigantes rojas en 1952 ayud\u00f3 a reforzar la teor\u00eda de que en las estrellas pueden generarse elementos pesados. En la Tierra, el tecnecio se encuentra en trazas detectables como producto de la fisi\u00f3n espont\u00e1nea en minerales de uranio por acci\u00f3n de la captura de neutrones en menas de molibdeno.",
+            "https://es.wikipedia.org/wiki/Tecnecio"
+        ],
+        "appareance": "metal gris brillante",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Ru": {
+        "name": "Rutenio",
+        "summary": [
+            "El rutenio es un elemento qu\u00edmico de n\u00famero at\u00f3mico 44 situado en el grupo 8 de la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es Ru. Es un metal de transici\u00f3n, poco abundante, del grupo del platino.\u200b Se encuentra normalmente en minas de platino y se emplea como catalizador en algunas aleaciones de platino.\nEs un metal de transici\u00f3n raro que pertenece al grupo del platino de la tabla peri\u00f3dica de los elementos. Al igual que los otros metales del grupo del platino, el rutenio es inerte a la mayor\u00eda de los dem\u00e1s productos qu\u00edmicos. El cient\u00edfico nacido en Rusia de ascendencia b\u00e1ltico-alemana Karl Ernst Claus descubri\u00f3 el elemento en 1844 en la Universidad Estatal de Kazan y lo nombr\u00f3 rutenio en honor a Rusia. El rutenio generalmente se encuentra como un componente menor de los minerales de platino; la producci\u00f3n anual ha aumentado de alrededor de 19 toneladas en 2009\u200b a unas 35,5 toneladas en 2017.\u200b La mayor parte del rutenio producido se utiliza en contactos el\u00e9ctricos resistentes al desgaste y resistencias de pel\u00edcula gruesa. Una aplicaci\u00f3n menor del rutenio es en aleaciones de platino y como catalizador qu\u00edmico. Una nueva aplicaci\u00f3n del rutenio es como capa protectora para  fotom\u00e1scaras ultravioletas extremas. El rutenio se encuentra generalmente en minerales con los otros metales del grupo del platino en los Montes Urales y en Am\u00e9rica del Norte y del  Sur . Tambi\u00e9n se encuentran cantidades peque\u00f1as pero comercialmente importantes en pentlandita extra\u00edda de Sudbury, Ontario y en dep\u00f3sitos de piroxenita en Sud\u00e1frica.\u200b",
+            "https://es.wikipedia.org/wiki/Rutenio"
+        ],
+        "appareance": "blanco plateado metalizado",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Rh": {
+        "name": "Rodio",
+        "summary": [
+            "El rodio es un elemento qu\u00edmico de n\u00famero at\u00f3mico 45 situado en el grupo 9 de la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es Rh. Es un metal de transici\u00f3n, poco abundante, del grupo del platino. Se encuentra normalmente en minas de platino y se emplea como catalizador en algunas aleaciones de platino.",
+            "https://es.wikipedia.org/wiki/Rodio"
+        ],
+        "appareance": "blanco plateado metalizado",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Pd": {
+        "name": "Paladio",
+        "summary": [
+            "El paladio es un elemento qu\u00edmico de n\u00famero at\u00f3mico 46 situado en el grupo 10 de la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es Pd. Es un metal de transici\u00f3n del grupo del platino, blando, d\u00factil, maleable y poco abundante. Se parece qu\u00edmicamente al platino y se extrae de algunas minas de cobre y n\u00edquel. Se emplea principalmente como catalizador y en joyer\u00eda.\nEl paladio es un metal raro y brillante de color blanco plateado que fue descubierto en 1803 por William Hyde Wollaston, y lleva el nombre del asteroide Palas, el cual recibe tambi\u00e9n su nombre de la diosa Palas.\nEl paladio, junto con el platino, el rodio, el rutenio, el iridio y el osmio forma un grupo de elementos mencionados como los metales del grupo del platino, que comparten propiedades qu\u00edmicas similares, pero el paladio tiene el punto de fusi\u00f3n m\u00e1s bajo y es el menos denso de estos metales preciosos.\nLas propiedades \u00fanicas de paladio y otros metales del grupo del platino se tienen en cuenta para su uso generalizado. Uno de cada cuatro productos que se fabrican actualmente contiene metales del grupo del platino, o bien estos desempe\u00f1an un papel clave durante su proceso de manufactura.\u200b M\u00e1s de la mitad de la oferta de paladio se utiliza en los convertidores catal\u00edticos, que convierten hasta el 90 % de los gases nocivos de escape de los autom\u00f3viles (hidrocarburos, mon\u00f3xido de carbono y \u00f3xido de nitr\u00f3geno) en sustancias menos nocivas (nitr\u00f3geno, di\u00f3xido de carbono y vapor de agua).\nEl paladio se encuentra en muchos productos electr\u00f3nicos como computadoras, tel\u00e9fonos m\u00f3viles, condensadores de m\u00faltiples capas de cer\u00e1mica, revestimiento de componentes de baja tensi\u00f3n, contactos el\u00e9ctricos y televisores SED/OLED/LCD. El paladio se usa tambi\u00e9n en odontolog\u00eda, medicina, purificaci\u00f3n de hidr\u00f3geno, aplicaciones qu\u00edmicas, y en el tratamiento de aguas subterr\u00e1neas. El paladio desempe\u00f1a un papel clave en la tecnolog\u00eda utilizada para las pilas de combustible, que combina hidr\u00f3geno y ox\u00edgeno para producir electricidad, calor y agua.\nLos dep\u00f3sitos de mineral de paladio y otros metales del grupo del platino son raros, y los yacimientos m\u00e1s extensos se ubican en Sud\u00e1frica, Estados Unidos, Canad\u00e1, y Rusia. Adem\u00e1s de la miner\u00eda, el reciclaje es tambi\u00e9n una fuente de paladio.",
+            "https://es.wikipedia.org/wiki/Paladio"
+        ],
+        "appareance": "blanco plateado",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Ag": {
+        "name": "Plata",
+        "summary": [
+            "La plata es un elemento qu\u00edmico de n\u00famero at\u00f3mico 47 situado en el grupo 11 de la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es Ag (procede del lat\u00edn argentum, \u201cblanco\u201d, \u201calbo\u201d o \u201cbrillante\u201d). Es un metal noble, de transici\u00f3n, de color blanco brillante, blando, d\u00factil y maleable.\nEn la naturaleza se encuentra como parte de distintos minerales (generalmente en forma de sulfuro) o como plata libre. Es poco com\u00fan  en la naturaleza, de la que representa una parte en mil de corteza terrestre. La mayor parte de su producci\u00f3n se obtiene como subproducto del tratamiento de las minas de cobre, zinc, plomo y oro.",
+            "https://es.wikipedia.org/wiki/Plata"
+        ],
+        "appareance": "metal blanco brillante",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Cd": {
+        "name": "Cadmio",
+        "summary": [
+            "El cadmio es un elemento qu\u00edmico de n\u00famero at\u00f3mico 48 situado en el grupo 12 de la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es Cd. Es un metal pesado, blando, blanco azulado, relativamente poco abundante. Es uno de los metales m\u00e1s t\u00f3xicos. Normalmente se encuentra en minas de zinc y se emplea especialmente en pilas.",
+            "https://es.wikipedia.org/wiki/Cadmio"
+        ],
+        "appareance": "gris azulado plateado metalizado",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "In": {
+        "name": "Indio",
+        "summary": [
+            "El indio es un elemento qu\u00edmico de n\u00famero at\u00f3mico 49 situado en el grupo 13 y el per\u00edodo 5 de la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es In. Es un metal poco abundante, maleable, f\u00e1cilmente fundible, qu\u00edmicamente similar al aluminio y al galio, pero m\u00e1s parecido al zinc (de hecho, la principal fuente de obtenci\u00f3n de este metal es a partir de los minerales de zinc). Su principal aplicaci\u00f3n est\u00e1 en las pantallas t\u00e1ctiles, en forma de \u00f3xido de indio y de esta\u00f1o.\u200b\n\n",
+            "https://es.wikipedia.org/wiki/Indio_(elemento)"
+        ],
+        "appareance": "gris plateado brillante",
+        "category": "post-transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal posterior a la transici\u00f3n"
+    },
+    "Sn": {
+        "name": "Esta\u00f1o",
+        "summary": [
+            "El esta\u00f1o es un elemento qu\u00edmico de s\u00edmbolo Sn (del lat\u00edn stannum) y n\u00famero at\u00f3mico 50. Est\u00e1 situado en el grupo 14 de la tabla peri\u00f3dica de los elementos. Se conocen 10 is\u00f3topos estables. Su principal mena es la casiterita.",
+            "https://es.wikipedia.org/wiki/Esta%C3%B1o"
+        ],
+        "appareance": "blanco plateado (beta, \u03b2) o gris (alfa, \u03b1)",
+        "category": "post-transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal posterior a la transici\u00f3n"
+    },
+    "Sb": {
+        "name": "Antimonio",
+        "summary": [
+            "El antimonio es un elemento qu\u00edmico que forma parte del grupo de los metaloides de n\u00famero at\u00f3mico 51 situado en el grupo 15 de la tabla peri\u00f3dica de los elementos. Su nombre y abreviatura (Sb) procede de estibio, t\u00e9rmino hoy ya en desuso, que a su vez procede del lat\u00edn stibium (\"Banco de arena gris brillante\").\u200b Su principal mena es la estibina.\nEste elemento semimet\u00e1lico tiene cuatro formas alotr\u00f3picas. En su forma estable es un metal blanco azulado. El antimonio negro y el amarillo son formas no met\u00e1licas inestables. Principalmente se emplea en aleaciones met\u00e1licas y algunos de sus compuestos para dar resistencia contra el fuego, en pinturas, cer\u00e1micas, esmaltes, vulcanizaci\u00f3n del caucho y fuegos artificiales.",
+            "https://es.wikipedia.org/wiki/Antimonio"
+        ],
+        "appareance": "gris plateado brillante",
+        "category": "metalloid",
+        "phase": "S\u00f3lido",
+        "category_t": "Metaloide"
+    },
+    "Te": {
+        "name": "Teluro",
+        "summary": [
+            "El teatro (del griego: \u03b8\u03ad\u03b1\u03c4\u03c1\u03bf\u03bd, th\u00e9atron o \u00ablugar para contemplar\u00bb derivado de \u03b8\u03b5\u03ac\u03bf\u03bc\u03b1\u03b9, the\u00e1omai o \u00abmirar\u00bb)\u200b es la rama de las artes esc\u00e9nicas relacionada con la actuaci\u00f3n. Representa historias actuadas frente a los espectadores o frente a una c\u00e1mara usando una combinaci\u00f3n de discurso, gestos, escenograf\u00eda, m\u00fasica, sonido y espect\u00e1culo.\nTambi\u00e9n se entiende como \u00abteatro\u00bb el g\u00e9nero literario que comprende las obras de teatro representadas ante un p\u00fablico o para ser grabadas y reproducidas en el cine, as\u00ed como a la edificaci\u00f3n donde se presentan tradicionalmente dichas obras o grabaciones. En adici\u00f3n a la narrativa com\u00fan, el estilo de di\u00e1logo, el teatro tambi\u00e9n toma otras formas como la \u00f3pera, el ballet, el cine, la \u00f3pera china o la pantomima.\nEl D\u00eda Mundial del Teatro se celebra desde 1961.\u200b Espec\u00edficamente esta fecha se celebra el 27 de marzo de cada a\u00f1o, definido por el Instituto Internacional del Teatro, raz\u00f3n para mostrar lo que representa el teatro a nivel mundial para la cultura.",
+            "https://es.wikipedia.org/wiki/Teatro"
+        ],
+        "appareance": null,
+        "category": "metalloid",
+        "phase": "S\u00f3lido",
+        "category_t": "Metaloide"
+    },
+    "I": {
+        "name": "Yodo",
+        "summary": [
+            "El yodo o iodo\u200b es un elemento qu\u00edmico de n\u00famero at\u00f3mico 53 situado en el grupo de los hal\u00f3genos (grupo 17) de la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es I (del griego \u03b9\u03ce\u03b4\u03b7\u03c2, iodes, \"violeta\"). Es un no metal debido a que no es un buen conductor del calor ni de la electricidad.\nEste elemento puede encontrarse en forma molecular como yodo diat\u00f3mico.\nEs un oligoelemento y se emplea principalmente en medicina, fotograf\u00eda y como colorante. Qu\u00edmicamente, el yodo es el hal\u00f3geno menos reactivo y electronegativo. Como con todos los otros hal\u00f3genos (miembros del Grupo XVII en la tabla peri\u00f3dica), el yodo forma mol\u00e9culas diat\u00f3micas y por ello forma el diyodo de f\u00f3rmula molecular I2.",
+            "https://es.wikipedia.org/wiki/Yodo"
+        ],
+        "appareance": "gris met\u00e1lico brillante, violeta como un gas",
+        "category": "diatomic nonmetal",
+        "phase": "S\u00f3lido",
+        "category_t": "No metal diat\u00f3mico"
+    },
+    "Xe": {
+        "name": "Xen\u00f3n",
+        "summary": [
+            "El xen\u00f3n es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Xe y su n\u00famero at\u00f3mico el 54. Gas noble inodoro, muy pesado, incoloro, el xen\u00f3n est\u00e1 presente en la atm\u00f3sfera terrestre solo en trazas y fue parte del primer compuesto de gas noble sintetizado.\n\n",
+            "https://es.wikipedia.org/wiki/Xen%C3%B3n"
+        ],
+        "appareance": "gas incoloro, que exhibe un resplandor azul cuando se coloca en un campo el\u00e9ctrico de alto voltaje",
+        "category": "noble gas",
+        "phase": "Gas",
+        "category_t": "Gas noble"
+    },
+    "Cs": {
+        "name": "Cesio",
+        "summary": [
+            "El cesio es el elemento qu\u00edmico con n\u00famero at\u00f3mico 55 y peso at\u00f3mico de 132,905 u. Su s\u00edmbolo es Cs, y es el segundo m\u00e1s pesado de los metales alcalinos en el grupo IA de la tabla peri\u00f3dica, despu\u00e9s del francio (hasta febrero de 2007); se encuentra en componentes no org\u00e1nicos.\n\n",
+            "https://es.wikipedia.org/wiki/Cesio"
+        ],
+        "appareance": "oro plateado",
+        "category": "alkali metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal alcalino"
+    },
+    "Ba": {
+        "name": "Bario",
+        "summary": [
+            "El bario es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Ba y su n\u00famero at\u00f3mico es 56. \nMetal alcalinot\u00e9rreo, el bario es el 18.\u00ba elemento m\u00e1s com\u00fan, ocupando una parte de 2000 de la corteza terrestre. Su masa at\u00f3mica es 137,34. Su punto de fusi\u00f3n est\u00e1 a 725 \u00b0C, su punto de ebullici\u00f3n a 1.640 \u00b0C, y su densidad relativa es 3,5. Su principal mena es la baritina.",
+            "https://es.wikipedia.org/wiki/Bario"
+        ],
+        "appareance": null,
+        "category": "alkaline earth metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal alcalinot\u00e9rreo"
+    },
+    "La": {
+        "name": "Lantano",
+        "summary": [
+            "El lantano es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es La y su n\u00famero at\u00f3mico es 57.\nEs el primer elemento de la serie de los lant\u00e1nidos.",
+            "https://es.wikipedia.org/wiki/Lantano"
+        ],
+        "appareance": "blanco plateado",
+        "category": "lanthanide",
+        "phase": "S\u00f3lido",
+        "category_t": "Lant\u00e1nido"
+    },
+    "Ce": {
+        "name": "C\u00e9rio",
+        "summary": [
+            "El cerio es un mineral y elemento qu\u00edmico de s\u00edmbolo Ce  y n\u00famero at\u00f3mico de 58.  Es uno de los 14 elementos qu\u00edmicos que siguen al lantano en la tabla peri\u00f3dica, denominados por ello lant\u00e1nidos. El cerio est\u00e1 situado entre el lantano y el praseodimio. \nDe color gris met\u00e1lico similar al hierro, d\u00factil, se oxida f\u00e1cilmente al contacto con el aire y se torna pardo rojizo. El cerio es el m\u00e1s abundante de los elementos de las tierras raras, su abundancia representa solo el 0,0046% en peso de la corteza terrestre, donde aparece disperso en diversos minerales, como la cerita, bastnasita y monacita.\u200b Existen numerosas aplicaciones comerciales del cerio. Entre estos usos se incluyen catalizadores, aditivos para el combustible para reducir la contaminaci\u00f3n ambiental y a los vidrios y esmaltes para cambiar sus colores. El \u00f3xido de cerio es un componente importante de los polvos utilizados para pulir vidrios y f\u00f3sforos utilizados en pantallas y l\u00e1mparas fluorescentes. Es utilizado tambi\u00e9n en la \"piedra\" o \"yesca\" de los encendedores (aleaci\u00f3n ferrocerio).\nEl cerio fue el primero de los lant\u00e1nidos en ser descubierto, en Bastn\u00e4s, Suecia, por J\u00f6ns Jakob Berzelius y Wilhelm Hisinger en 1803, e independientemente por Martin Heinrich Klaproth en Alemania en el mismo a\u00f1o. En 1839, Carl Gustaf Mosander fue el primero en aislar el metal. En la actualidad, el cerio y sus compuestos tienen diversos usos: por ejemplo, el \u00f3xido de cerio(IV) se utiliza para pulir el vidrio y es una parte importante de los convertidores catal\u00edticos. El cerio met\u00e1lico se utiliza en los encendedores de ferrocerio por sus propiedades pirof\u00f3ricas. El f\u00f3sforo YAG dopado con cerio se utiliza junto con los diodos emisores de luz azules para producir luz blanca en la mayor\u00eda de las fuentes de luz LED blancas comerciales.\n\n",
+            "https://es.wikipedia.org/wiki/Cerio"
+        ],
+        "appareance": "blanco plateado",
+        "category": "lanthanide",
+        "phase": "S\u00f3lido",
+        "category_t": "Lant\u00e1nido"
+    },
+    "Pr": {
+        "name": "Praseodimio",
+        "summary": [
+            "El praseodimio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Pr y su n\u00famero at\u00f3mico es 59. Es parte del grupo de tierras raras. Fue descubierto en 1885 por el qu\u00edmico austr\u00edaco Carl Auer von Welsbach.",
+            "https://es.wikipedia.org/wiki/Praseodimio"
+        ],
+        "appareance": "blanco gris\u00e1ceo",
+        "category": "lanthanide",
+        "phase": "S\u00f3lido",
+        "category_t": "Lant\u00e1nido"
+    },
+    "Nd": {
+        "name": "Neod\u00edmio",
+        "summary": [
+            "El neodimio es un elemento qu\u00edmico cuyo s\u00edmbolo es Nd y su n\u00famero at\u00f3mico es 60. \nEs el cuarto miembro de la serie de los lant\u00e1nidos y se considera uno de los metales de tierras raras. \nA la temperatura ambiente, se encuentra en estado s\u00f3lido. Es un metal duro, ligeramente maleable, plateado, que se empa\u00f1a r\u00e1pidamente en el aire y la humedad. Cuando se oxida, el neodimio reacciona r\u00e1pidamente para producir compuestos de color rosa, p\u00farpura/azul y amarillo en los estados de oxidaci\u00f3n +2, +3 y +4. Generalmente se considera que tiene uno de los espectro m\u00e1s complejos de los elementos.\u200b El neodimio fue descubierto en 1885 por el qu\u00edmico austriaco Carl Auer von Welsbach, que tambi\u00e9n descubri\u00f3 el praseodimio. Est\u00e1 presente en cantidades significativas en los minerales monacita y bastnasita. El neodimio no se encuentra de forma natural en forma met\u00e1lica o sin mezclar con otros lant\u00e1nidos, y suele refinarse para su uso general. El neodimio es bastante com\u00fan -aproximadamente tan com\u00fan como el cobalto, el n\u00edquel o el cobre- y est\u00e1 ampliamente distribuido en la corteza de la Tierra.\u200b La mayor parte del neodimio comercial del mundo se extrae en China, al igual que muchos otros metales de tierras raras.\nLos compuestos de neodimio se utilizaron comercialmente por primera vez como tintes de vidrio en 1927 y siguen siendo un aditivo popular. El color de los compuestos de neodimio proviene del ion Nd3+ y suele ser de color p\u00farpura rojizo, pero cambia con el tipo de iluminaci\u00f3n, debido a la interacci\u00f3n de las bandas de absorci\u00f3n de luz n\u00edtidas del neodimio con la luz ambiental. enriquecido con las n\u00edtidas bandas de emisi\u00f3n visibles de mercurio, europio trivalente o terbio. Los vidrios dopados con neodimio se utilizan en l\u00e1seres que emiten infrarrojos con longitudes de onda entre 1047 y 1062 nan\u00f3metros. Estos l\u00e1seres se han utilizado en aplicaciones de potencia extremadamente alta, como experimentos de fusi\u00f3n por confinamiento inercial. El neodimio tambi\u00e9n se usa con varios otros cristales sustrato, como el granate de itrio y aluminio en el l\u00e1ser Nd:YAG.\nEl neodimio se usa en las aleaciones que se usan para fabricar im\u00e1n de neodimio de alta resistencia, un tipo de poderosos imanes permanentes.\u200b Estos imanes se utilizan ampliamente en productos como micr\u00f3fonos, parlantes profesionales, auriculares de o\u00eddo, motores el\u00e9ctricos de corriente continua de alto rendimiento para aficionados y discos duros de computadora, donde se requiere una masa (o volumen) de im\u00e1n bajo o campos magn\u00e9ticos fuertes. Los imanes de neodimio de mayor tama\u00f1o se utilizan en motores el\u00e9ctricos con una elevada relaci\u00f3n potencia-peso (por ejemplo, en coches h\u00edbridos) y generadores (por ejemplo, aviones  y generadores el\u00e9ctricos de turbinas e\u00f3licas.\u200b\n\n",
+            "https://es.wikipedia.org/wiki/Neodimio"
+        ],
+        "appareance": "blanco plateado",
+        "category": "lanthanide",
+        "phase": "S\u00f3lido",
+        "category_t": "Lant\u00e1nido"
+    },
+    "Pm": {
+        "name": "Prometio",
+        "summary": [
+            "El prometio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Pm y su n\u00famero at\u00f3mico es 61. Alg\u00fan tiempo se le denomin\u00f3 ilinio (por Illinois). Aunque, tras la observaci\u00f3n de ciertas l\u00edneas espectrales, algunos cient\u00edficos han reclamado haber descubierto este elemento en la naturaleza, nadie ha podido aislarlo de sustancias naturales.",
+            "https://es.wikipedia.org/wiki/Prometio"
+        ],
+        "appareance": "met\u00e1lico",
+        "category": "lanthanide",
+        "phase": "S\u00f3lido",
+        "category_t": "Lant\u00e1nido"
+    },
+    "Sm": {
+        "name": "Sam\u00e1rio",
+        "summary": [
+            "El samario es un elemento qu\u00edmico de s\u00edmbolo Sm y n\u00famero at\u00f3mico 62.  Presenta una estructura cristalina romboedral, una masa at\u00f3mica de 150,35 y una densidad de 7,35 g/cm\u00b3.\nAunque clasificado como un elemento de tierras raras, el samario es el 40\u00ba elemento m\u00e1s abundante en la corteza terrestre y m\u00e1s com\u00fan que  metales tales como el esta\u00f1o. El samario se presenta en una concentraci\u00f3n de hasta el 2,8 % en varios minerales, incluidos cerita, gadolinita, samarskita, monacita y bastn\u00e4sita, siendo las dos \u00faltimas las fuentes comerciales m\u00e1s comunes del elemento. Estos minerales se encuentran principalmente en China, Estados Unidos, Brasil, India, Sri Lanka y Australia; China es, con mucho, el l\u00edder mundial en la extracci\u00f3n y producci\u00f3n de samario.\u200b\nEl principal uso comercial del samario es en los imanes de samario-cobalto, que tienen una magnetizaci\u00f3n permanente solo superada por los imanes de neodimio; sin embargo, los compuestos de samario pueden soportar temperaturas significativamente m\u00e1s altas, por encima de los 700 grados Celsius (1292,0 \u00b0F), sin perder sus propiedades magn\u00e9ticas, debido al punto de Curie m\u00e1s alto de la aleaci\u00f3n. El radiois\u00f3topo samario-153 es el componente activo del f\u00e1rmaco samario (153Sm) lexidronam (Quadramet), que se utiliza para eliminar c\u00e9lulas cancerosas en el c\u00e1ncer de pulm\u00f3n, c\u00e1ncer de pr\u00f3stata, c\u00e1ncer de mama y osteosarcoma. Otro is\u00f3topo, el samario-149, es un fuerte absorbente de neutrones y, por lo tanto, se agrega a las barras de control de los reactores nucleares. Tambi\u00e9n se forma como producto de desintegraci\u00f3n durante el funcionamiento de un reactor nuclear y es uno de los factores importantes que se tienen en cuenta en el dise\u00f1o y funcionamiento del mismo. Otros usos del samario son la cat\u00e1lisis de las reacciones qu\u00edmicas, la dataci\u00f3n radiactiva y el l\u00e1ser de rayos X.\n\n",
+            "https://es.wikipedia.org/wiki/Samario"
+        ],
+        "appareance": "blanco plateado",
+        "category": "lanthanide",
+        "phase": "S\u00f3lido",
+        "category_t": "Lant\u00e1nido"
+    },
+    "Eu": {
+        "name": "Eur\u00f3pio",
+        "summary": [
+            "El europio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Eu y su n\u00famero at\u00f3mico es 63.\nFue descubierto en 1890 por Paul Emile Lecoq de Boisbaudran y aislado por primera vez por Eug\u00e8ne Demar\u00e7ay, quien le dio su actual nombre, en 1901. Debe su nombre al continente europeo.",
+            "https://es.wikipedia.org/wiki/Europio"
+        ],
+        "appareance": null,
+        "category": "lanthanide",
+        "phase": "S\u00f3lido",
+        "category_t": "Lant\u00e1nido"
+    },
+    "Gd": {
+        "name": "Gadol\u00ednio",
+        "summary": [
+            "El gadolinio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Gd y cuyo n\u00famero at\u00f3mico es 64. Es un metal raro de color blanco plateado, es maleable y d\u00factil. Solo se encuentra en la naturaleza de forma combinada (sal).\nPuesto que la temperatura de Curie del gadolinio es 292 K (18,85 \u00b0C) su magnetismo depender\u00e1 de la temperatura ambiente. Por encima de dicha temperatura ser\u00e1 paramagn\u00e9tico, y ferromagn\u00e9tico por debajo.",
+            "https://es.wikipedia.org/wiki/Gadolinio"
+        ],
+        "appareance": "blanco plateado",
+        "category": "lanthanide",
+        "phase": "S\u00f3lido",
+        "category_t": "Lant\u00e1nido"
+    },
+    "Tb": {
+        "name": "T\u00e9rbio",
+        "summary": [
+            "El terbio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Tb, s\u00f3lido met\u00e1lico de color blanco y brillo plateado. Su n\u00famero at\u00f3mico es 65, con una masa at\u00f3mica de 158,9.\nTiene una densidad de 8,3 g/cm\u00b3. Con un punto de fusi\u00f3n de 1.360 \u00b0C y un punto de ebullici\u00f3n de 3.041 \u00b0C. Es un metal de transici\u00f3n interna de la familia de los lant\u00e1nidos del Sistema Peri\u00f3dico. Se encuentra habitualmente como \u00f3xido en las tierras raras. Forma sales trivalentes de color blanco cuyas soluciones son incoloras.\nSu concentraci\u00f3n en la corteza terrestre es de 0,09 ppm.",
+            "https://es.wikipedia.org/wiki/Terbio"
+        ],
+        "appareance": "blanco plateado",
+        "category": "lanthanide",
+        "phase": "S\u00f3lido",
+        "category_t": "Lant\u00e1nido"
+    },
+    "Dy": {
+        "name": "Dispr\u00f3sio",
+        "summary": [
+            "El disprosio es un elemento qu\u00edmico cuyo s\u00edmbolo es Dy y su n\u00famero at\u00f3mico es 66. Es un metal de transici\u00f3n de color blanco plata, incluido en el grupo de los lant\u00e1nidos o tierras raras. Fue identificado por primera vez en 1886 por Paul \u00c9mile Lecoq de Boisbaudran, pero no fue posible obtener una muestra pura hasta la d\u00e9cada de 1950, con el m\u00e9todo de intercambio i\u00f3nico. En la naturaleza el disprosio se encuentra formado por 7 is\u00f3topos, y no existe en la corteza terrestre en forma aislada sino en compuestos junto con otros lant\u00e1nidos.",
+            "https://es.wikipedia.org/wiki/Disprosio"
+        ],
+        "appareance": "blanco plateado",
+        "category": "lanthanide",
+        "phase": "S\u00f3lido",
+        "category_t": "Lant\u00e1nido"
+    },
+    "Ho": {
+        "name": "H\u00f3lmio",
+        "summary": [
+            "El holmio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Ho y su n\u00famero at\u00f3mico es 67. Es un metal relativamente blando, plateado, bastante resistente a la corrosi\u00f3n y maleable. Como muchos otros lant\u00e1nidos, el holmio es demasiado reactivo para encontrarse en forma nativa, ya que el holmio puro forma lentamente una capa de \u00f3xido amarillento cuando se expone al aire. Cuando est\u00e1 aislado, el holmio es relativamente estable en aire seco a temperatura ambiente. Sin embargo, reacciona con el agua y se corroe f\u00e1cilmente, y tambi\u00e9n arde en el aire cuando se calienta.\nEn la naturaleza, el holmio se encuentra junto con otros metales de tierras raras (como el tulio). Es un lant\u00e1nido relativamente raro, que constituye 1,4 partes por mill\u00f3n de la corteza terrestre, una abundancia similar a la del wolframio. El holmio fue descubierto a trav\u00e9s de su aislamiento por el qu\u00edmico sueco Per Theodor Cleve e independientemente por Jacques-Louis Soret y Marc Delafontaine, que lo observaron espectrosc\u00f3picamente en 1878. Su \u00f3xido fue aislado por primera vez de minerales de tierras raras por Cleve en 1878. El nombre del elemento proviene de Holmia, el nombre latino de la ciudad de Estocolmo.\u200b\u200b\u200b\nComo muchos otros lant\u00e1nidos, el holmio se encuentra en los minerales monacita y gadolinita y suele extraerse comercialmente de la monacita mediante t\u00e9cnicas de intercambio i\u00f3nico. Sus compuestos en la naturaleza y en casi toda la qu\u00edmica de laboratorio son trivalentes oxidados, conteniendo iones Ho(III). Los iones de holmio trivalentes tienen propiedades fluorescentes similares a las de muchos otros iones de tierras raras (al tiempo que producen su propio conjunto de l\u00edneas luminosas de emisi\u00f3n \u00fanicas), por lo que se utilizan de la misma manera que otras tierras raras en ciertas aplicaciones de l\u00e1ser y de colorantes de vidrio.\nEl holmio tiene la mayor permeabilidad magn\u00e9tica y saturaci\u00f3n magn\u00e9tica de todos los elementos, por lo que se utiliza para los polos de los imanes m\u00e1s potentes. Dado que el holmio absorbe fuertemente los neutrones, tambi\u00e9n se utiliza como veneno quemable en los reactores nucleares.",
+            "https://es.wikipedia.org/wiki/Holmio"
+        ],
+        "appareance": "blanco plateado",
+        "category": "lanthanide",
+        "phase": "S\u00f3lido",
+        "category_t": "Lant\u00e1nido"
+    },
+    "Er": {
+        "name": "\u00c9rbio",
+        "summary": [
+            "El erbio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Er y su n\u00famero at\u00f3mico es 68. El erbio es un elemento un tanto raro de color plateado perteneciente a los lant\u00e1nidos y que aparece asociado a otros lant\u00e1nidos en el mineral gadolinita procedente de Ytterby (Suecia).",
+            "https://es.wikipedia.org/wiki/Erbio"
+        ],
+        "appareance": "blanco plateado",
+        "category": "lanthanide",
+        "phase": "S\u00f3lido",
+        "category_t": "Lant\u00e1nido"
+    },
+    "Tm": {
+        "name": "T\u00falio",
+        "summary": [
+            "El tulio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Tm y su n\u00famero at\u00f3mico es 69.\nFue descubierto por Per Teodor Cleve en Suecia en el a\u00f1o 1879. Su nombre procede del antiguo nombre griego de Escandinavia en lat\u00edn, Thulium.\u200b\nEl Tulio es el menos abundante de los lant\u00e1nidos (el prometio es menos abundante que el Tulio, pero no se lo encuentra naturalmente en la Tierra). Es un metal blando, con un lustre gris plateado brillante. A pesar de su alto precio y escasez, el tulio es utilizado como fuente de radiaci\u00f3n en los equipos de rayos X port\u00e1tiles y l\u00e1seres de estado s\u00f3lido.",
+            "https://es.wikipedia.org/wiki/Tulio"
+        ],
+        "appareance": "gris plateado",
+        "category": "lanthanide",
+        "phase": "S\u00f3lido",
+        "category_t": "Lant\u00e1nido"
+    },
+    "Yb": {
+        "name": "It\u00e9rbio",
+        "summary": [
+            "El iterbio es un elemento qu\u00edmico de la tabla peri\u00f3dica que tiene el s\u00edmbolo Yb y el n\u00famero at\u00f3mico 70. El iterbio es un elemento met\u00e1lico plateado blando, una tierra rara de la serie de los lant\u00e1nidos que se halla en la gadolinita, la monazita y el xenotimo. El iterbio se asocia a veces con el itrio u otros elementos relacionados y se usa en algunos aceros. El iterbio natural es una mezcla de siete is\u00f3topos estables.",
+            "https://es.wikipedia.org/wiki/Iterbio"
+        ],
+        "appareance": null,
+        "category": "lanthanide",
+        "phase": "S\u00f3lido",
+        "category_t": "Lant\u00e1nido"
+    },
+    "Lu": {
+        "name": "Lut\u00e9cio",
+        "summary": [
+            "El lutecio es un elemento qu\u00edmico, de n\u00famero at\u00f3mico 71, cuyo s\u00edmbolo qu\u00edmico es Lu. A pesar de ser uno de los elementos del bloque d, con frecuencia aparece incluido entre los lant\u00e1nidos (tierras raras), ya que con estos comparte muchas propiedades. De todos ellos es el elemento m\u00e1s dif\u00edcil de aislar, lo cual justifica su carest\u00eda y los relativamente pocos usos que se le han encontrado.",
+            "https://es.wikipedia.org/wiki/Lutecio"
+        ],
+        "appareance": "blanco plateado",
+        "category": "lanthanide",
+        "phase": "S\u00f3lido",
+        "category_t": "Lant\u00e1nido"
+    },
+    "Hf": {
+        "name": "Hafnio",
+        "summary": [
+            "El hafnio es un elemento qu\u00edmico de n\u00famero at\u00f3mico 72 que se encuentra en el grupo 4 de la tabla peri\u00f3dica de los elementos y se simboliza como Hf.\nEs un metal de transici\u00f3n, brillante, gris-plateado, qu\u00edmicamente muy parecido al circonio, encontr\u00e1ndose en los mismos minerales y compuestos, y siendo dif\u00edcil separarlos. Se usa en aleaciones con wolframio en filamentos y en electrodos. Tambi\u00e9n se utiliza como material de barras de control de reactores nucleares debido a su capacidad de absorci\u00f3n de neutrones. Recientemente, se ha convertido en el material utilizado para fabricar los transistores de los procesadores de la conocida marca Intel.\n\n",
+            "https://es.wikipedia.org/wiki/Hafnio"
+        ],
+        "appareance": "gris acero",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Ta": {
+        "name": "T\u00e1ntalo",
+        "summary": [
+            "El t\u00e1ntalo,\u200b anteriormente tambi\u00e9n conocido como tantalio,\u200b\u200b es un elemento qu\u00edmico de n\u00famero at\u00f3mico 73, que se sit\u00faa en el grupo 5 de la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es Ta. Se trata de un metal de transici\u00f3n raro, azul gris\u00e1ceo, duro, que presenta brillo met\u00e1lico y resiste muy bien la corrosi\u00f3n. Se encuentra en el mineral tantalita. Es fisiol\u00f3gicamente inerte, por lo que entre sus variadas aplicaciones, se puede emplear para la fabricaci\u00f3n de instrumentos quir\u00fargicos y en implantes.\nEl t\u00e1ntalo es una elecci\u00f3n razonable cuando se requiere una alta resistencia a la corrosi\u00f3n. Aunque el t\u00e1ntalo no sea un metal noble, es comparable a estos en lo que respecta a la resistencia qu\u00edmica. Adem\u00e1s, el t\u00e1ntalo es muy f\u00e1cil de conformar, incluso netamente por debajo de la temperatura ambiente, a pesar de su estructura cristalina c\u00fabica centrada en el espacio. La resistencia a la corrosi\u00f3n del t\u00e1ntalo lo convierte en un material valioso en un gran n\u00famero de aplicaciones qu\u00edmicas. Este material \u00abinflexible\u00bb se utiliza, por ejemplo, para producir intercambiadores de calor para el sector de la construcci\u00f3n de aparatos, carros de carga para la construcci\u00f3n de hornos, implantes para la tecnolog\u00eda m\u00e9dica y componentes de capacitores para la industria electr\u00f3nica.\n\n",
+            "https://es.wikipedia.org/wiki/T%C3%A1ntalo_(elemento)"
+        ],
+        "appareance": "gris azul",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "W": {
+        "name": "Wolframio",
+        "summary": [
+            "El tungsteno o wolframio,\u200b tambi\u00e9n conocido como w\u00f3lfram\u200b\u200b o volframio,\u200b es un elemento qu\u00edmico de n\u00famero at\u00f3mico 74 que se encuentra en el grupo 6 de la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es W. \nEs un metal escaso en la corteza terrestre, pero se encuentra en determinados minerales en forma de \u00f3xidos o sales. Es de color gris acerado, muy duro y denso, y tiene el punto de fusi\u00f3n y el punto de ebullici\u00f3n m\u00e1s alto de todos los elementos conocidos.\u200b Se usa en la fabricaci\u00f3n de aparejos de pesca, en los filamentos de las l\u00e1mparas incandescentes, en electrodos no consumibles de soldaduras, en resistencias el\u00e9ctricas y, aleado con el acero, en la fabricaci\u00f3n de aceros especiales.\nSu variedad de carburo de wolframio sinterizado se emplea para fabricar herramientas de corte. Esta variedad absorbe m\u00e1s del 60 % de la demanda mundial de wolframio.\nEl wolframio es un material estrat\u00e9gico y ha estado en la lista de productos m\u00e1s codiciados desde la Segunda Guerra Mundial.\nPor ejemplo, el gobierno de Estados Unidos mantiene unas reservas nacionales de seis meses junto con otros productos considerados de primera necesidad para su supervivencia.\u200b",
+            "https://es.wikipedia.org/wiki/Tungsteno"
+        ],
+        "appareance": "blanco gris\u00e1ceo, brillante",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Re": {
+        "name": "Renio",
+        "summary": [
+            "El renio \u2014de Rhenus, nombre latino del Rin\u2014 es un elemento qu\u00edmico, de n\u00famero at\u00f3mico 75, que se encuentra en el grupo 7 de la tabla peri\u00f3dica de los elementos y cuyo s\u00edmbolo es Re, descubierto en 1925 por tres cient\u00edficos alemanes. Es un metal de transici\u00f3n de color blanco-plata, s\u00f3lido, refractario y resistente a la corrosi\u00f3n, muy utilizado en joyer\u00eda y como catalizador. Sus propiedades qu\u00edmicas son muy parecidas a las del manganeso, es muy escaso en la corteza terrestre y se obtiene principalmente a partir de minerales de molibdeno.\nExisten 35 is\u00f3topos y 26 radiois\u00f3topos de este elemento, de los cuales los m\u00e1s estables son el 185Re y el 187Re. Los principales yacimientos de renio se encuentran en Am\u00e9rica y Asia, destacando los de Chile y Kazajist\u00e1n.",
+            "https://es.wikipedia.org/wiki/Renio"
+        ],
+        "appareance": "plateado-gris\u00e1ceo",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Os": {
+        "name": "Osmio",
+        "summary": [
+            "El osmio es un elemento qu\u00edmico de n\u00famero at\u00f3mico 76 que se encuentra en el grupo 8 de la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es Os.\nSe trata de un metal de transici\u00f3n blanco gris\u00e1ceo, fr\u00e1gil y s\u00f3lido. Se clasifica dentro del grupo del platino, y se emplea en algunas aleaciones con platino e iridio. Se encuentra aleado en menas de platino y su tetr\u00f3xido, OsO4.\u200b El osmio es el elemento natural m\u00e1s pesado a igual volumen (es decir, m\u00e1s denso) que existe, con una densidad de 22.59 g/cm\u00b3 y masa at\u00f3mica de 190.23\nSe emplea en s\u00edntesis org\u00e1nica (como oxidante) y en el proceso de tinci\u00f3n de tejidos (como fijador) para su observaci\u00f3n mediante microscop\u00eda electr\u00f3nica, y en otras t\u00e9cnicas biom\u00e9dicas. Las aleaciones de osmio se emplean en contactos el\u00e9ctricos, puntas de bol\u00edgrafos y otras aplicaciones en las que es necesaria una gran dureza y durabilidad.\u200b\nEl osmio fue descubierto en 1803 por Smithson Tennant, a partir del residuo que quedaba al disolver platino nativo en agua regia. Es un elemento muy escaso en la naturaleza y que se halla en la corteza terrestre en una concentraci\u00f3n de 0.0015 ppm. Previamente, los qu\u00edmicos franceses Antoine-Fran\u00e7ois de Fourcroy y  Louis Nicolas Vauquelin identificaron un material en el residuo del platino, al que llamaron pt\u00e8ne, pero no pudieron caracterizarlo correctamente al no contar con una cantidad suficiente para aislarlo.\u200b",
+            "https://es.wikipedia.org/wiki/Osmio"
+        ],
+        "appareance": "tono plateado, azul",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Ir": {
+        "name": "Iridio",
+        "summary": [
+            "El iridio es un elemento qu\u00edmico de n\u00famero at\u00f3mico 77 que se sit\u00faa en el grupo 9 de la tabla peri\u00f3dica. Su s\u00edmbolo es Ir. Se trata de un metal de transici\u00f3n, del grupo del platino, duro, fr\u00e1gil, pesado, de color blanco plateado. Es el segundo elemento m\u00e1s denso (despu\u00e9s del osmio) y es el elemento m\u00e1s resistente a la corrosi\u00f3n, incluso a temperaturas tan altas como 2000 \u00b0C. Solo algunos hal\u00f3genos y sales fundidas son corrosivas para el iridio en estado s\u00f3lido. El iridio en polvo es mucho m\u00e1s reactivo y puede llegar a ser inflamable.\u200b\nFue descubierto en 1803 entre las impurezas insolubles del platino natural. Smithson Tennant, el primer descubridor, llam\u00f3 al metal iridio en honor a la diosa Iris, la personificaci\u00f3n del arco\u00edris, debido a los diversos y llamativos colores de sus sales. El iridio es uno de los elementos m\u00e1s raros en la corteza terrestre, con una extracci\u00f3n y consumo anual de tan solo tres toneladas. El 191Ir y el 193Ir son los dos is\u00f3topos naturales del iridio y tambi\u00e9n sus \u00fanicos is\u00f3topos estables; el 193Ir es el m\u00e1s abundante de los dos.\u200b\nLos compuestos de iridio m\u00e1s importantes son las sales y \u00e1cidos que forma junto con el cloro, aunque el iridio tambi\u00e9n forma una serie de compuestos organomet\u00e1licos, utilizados en la cat\u00e1lisis industrial y en investigaci\u00f3n. El iridio met\u00e1lico es usado cuando se necesita alta resistencia a la corrosi\u00f3n a altas temperaturas,\u200b como en las buj\u00edas de gama alta,\u200b crisoles para la recristalizaci\u00f3n de los semiconductores a altas temperaturas, y los electrodos\u200b para la producci\u00f3n de cloro mediante el proceso de cloro-\u00e1lcali. Los radiois\u00f3topos de iridio se usan en algunos generadores de radiois\u00f3topos.\nEl iridio se encuentra en meteoritos en una abundancia mucho mayor que en la corteza terrestre.\u200b Por esta raz\u00f3n, la abundancia inusualmente alta de iridio en la capa de arcilla en el l\u00edmite Cret\u00e1ceo-Pale\u00f3geno dio lugar a la hip\u00f3tesis de \u00c1lvarez de que el impacto de un objeto extraterrestre masivo caus\u00f3 la extinci\u00f3n de los dinosaurios y muchas otras especies hace 65 millones de a\u00f1os.\u200b Del mismo modo, una anomal\u00eda de iridio en muestras de n\u00facleos del Oc\u00e9ano Pac\u00edfico sugiri\u00f3 el impacto Eltanin de hace aproximadamente 2,5 millones de a\u00f1os.\nEl iridio tambi\u00e9n se emplea en aleaciones de alta resistencia que pueden soportar altas temperaturas.\u200b Es un elemento poco abundante y se encuentra en la naturaleza en aleaciones con platino y osmio.\u200b Se emplea en contactos el\u00e9ctricos, aparatos que trabajan a altas temperaturas, y como agente endurecedor del platino.\u200b\u200b",
+            "https://es.wikipedia.org/wiki/Iridio"
+        ],
+        "appareance": "blanco plateado",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Pt": {
+        "name": "Platino",
+        "summary": [
+            "El platino es un elemento qu\u00edmico de n\u00famero at\u00f3mico 78, situado en el grupo 10 de la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es Pt. Se trata de un metal de transici\u00f3n blanco gris\u00e1ceo, precioso, pesado, maleable y d\u00factil. Es resistente a la corrosi\u00f3n y se encuentra en distintos minerales, frecuentemente junto con n\u00edquel y cobre; tambi\u00e9n se puede encontrar como metal. Se emplea en joyer\u00eda, equipamiento de laboratorio, contactos el\u00e9ctricos, empastes y catalizadores de autom\u00f3viles.",
+            "https://es.wikipedia.org/wiki/Platino"
+        ],
+        "appareance": "blanco plateado",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Au": {
+        "name": "Oro",
+        "summary": [
+            "El oro es un elemento qu\u00edmico cuyo n\u00famero at\u00f3mico es 79. Est\u00e1 ubicado en el grupo 11 de la tabla peri\u00f3dica. Es un metal precioso blando de color amarillo dorado. Su s\u00edmbolo es Au (del lat\u00edn aurum, \u2018brillante amanecer\u2019). Adem\u00e1s, es uno de los metales m\u00e1s apreciados en joyer\u00eda por sus propiedades f\u00edsicas, al tener baja alterabilidad, ser muy maleable, d\u00factil y brillante, y valorado por su rareza, al ser un metal dif\u00edcil de encontrar en la naturaleza.\nEs un metal de transici\u00f3n blando, brillante, amarillo, pesado, maleable y d\u00factil. El oro no reacciona con la mayor\u00eda de los productos qu\u00edmicos, pero es sensible y soluble al cianuro, al mercurio, al agua regia, al cloro y a la lej\u00eda. Este metal se encuentra normalmente en estado puro, en forma de pepitas y dep\u00f3sitos aluviales. Es un elemento que se crea gracias a las condiciones extremas en el n\u00facleo colapsante de las supernovas. Cuando la reacci\u00f3n de una fusi\u00f3n nuclear cesa, las capas superiores de la estrella se desploman sobre el n\u00facleo estelar, comprimiendo y calentando la materia hasta el punto de que los n\u00facleos m\u00e1s ligeros, como por ejemplo el hierro, se fusionan para dar lugar a los metales m\u00e1s pesados (uranio, oro, etc.). Un estudio sugiere que el oro del planeta provino de la colisi\u00f3n de estrellas de neutrones.\u200b \nLos dep\u00f3sitos primarios de oro en la corteza se forman a partir de gases y l\u00edquidos muy calientes, metasom\u00e1ticos, que se elevan desde el interior de la Tierra, los cuales se trasladan a la superficie a trav\u00e9s de fallas de la corteza terrestre.\u200b\nEn her\u00e1ldica, representa todo poder econ\u00f3mico y es s\u00edmbolo de vanidad.",
+            "https://es.wikipedia.org/wiki/Oro"
+        ],
+        "appareance": "amarillo metalizado",
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Hg": {
+        "name": "Mercurio",
+        "summary": [
+            "El mercurio es un elemento qu\u00edmico con el s\u00edmbolo Hg y n\u00famero at\u00f3mico 80. En la literatura antigua era designado com\u00fanmente como plata l\u00edquida y tambi\u00e9n como azogue  o hidrargirio.\u200b Elemento de aspecto plateado, metal pesado perteneciente al bloque D de la tabla peri\u00f3dica, el mercurio es el \u00fanico elemento met\u00e1lico l\u00edquido en condiciones est\u00e1ndar de laboratorio; el \u00fanico otro elemento que es l\u00edquido bajo estas condiciones es el bromo (un no metal), aunque otros metales como el cesio, el galio, y el rubidio se funden a temperaturas ligeramente superiores.\nEl mercurio aparece en dep\u00f3sitos en todo el mundo, principalmente como cinabrio (sulfuro de mercurio). El pigmento rojo denominado bermell\u00f3n se obtiene triturando cinabrio natural o sulfuro de mercurio obtenido por s\u00edntesis.\nEl mercurio se usa en term\u00f3metros, bar\u00f3metros, man\u00f3metros, esfigmoman\u00f3metros, algunos tipos de v\u00e1lvulas como las bombas de vac\u00edo, los interruptores de mercurio, las l\u00e1mparas fluorescentes y otros dispositivos, a pesar de que la preocupaci\u00f3n sobre la toxicidad del elemento ha llevado a los term\u00f3metros y tensi\u00f3metros de mercurio a ser eliminados en gran medida en entornos cl\u00ednicos en favor de otras alternativas, como los term\u00f3metros de vidrio que utilizan alcohol o galinstano, los termistores o los instrumentos electr\u00f3nicos basados en la medici\u00f3n de la radiaci\u00f3n infrarroja. Del mismo modo, man\u00f3metros mec\u00e1nicos y sensores de calibradores de tensi\u00f3n electr\u00f3nicos han sustituido a los esfigmoman\u00f3metros de mercurio. El mercurio se mantiene en uso en aplicaciones de investigaci\u00f3n cient\u00edfica y en amalgamas odontol\u00f3gicas, todav\u00eda utilizadas en algunos pa\u00edses. Tambi\u00e9n se utiliza en las luces fluorescentes, en las que la electricidad que atraviesa una l\u00e1mpara conteniendo vapor de mercurio a baja presi\u00f3n produce radiaci\u00f3n ultravioleta de onda corta, que a su vez provoca la fluorescencia del f\u00f3sforo que recubre el tubo, produciendo luz visible.\nEl envenenamiento por mercurio puede resultar de la exposici\u00f3n a las formas solubles en agua del mercurio (como el cloruro merc\u00farico o el metilmercurio), por la inhalaci\u00f3n de vapor de mercurio, o por la ingesti\u00f3n de cualquiera de sus formas.",
+            "https://es.wikipedia.org/wiki/Mercurio_(elemento)"
+        ],
+        "appareance": "plateado",
+        "category": "transition metal",
+        "phase": "L\u00edquido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Tl": {
+        "name": "Talio",
+        "summary": [
+            "El talio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Tl y su n\u00famero at\u00f3mico es 81. Este metal del bloque p gris, blando y maleable es parecido al esta\u00f1o, pero se decolora expuesto al aire. Es muy t\u00f3xico y se ha empleado como raticida e insecticida, pero este uso ha sido disminuido o eliminado en muchos pa\u00edses debido a sus posibles efectos cancer\u00edgenos. Tambi\u00e9n se emplea en detectores infrarrojos. El talio puro es un metal de color blanco azulado que se encuentra en peque\u00f1as cantidades en la corteza terrestre. En el pasado, el talio se obten\u00eda como subproducto de la fundici\u00f3n de otros metales. Actualmente, todo el talio se obtiene de las importaciones y de las reservas de talio. En su forma pura, el talio es inodoro e ins\u00edpido. Tambi\u00e9n se puede encontrar combinado con otras sustancias como bromo, cloro, fl\u00faor y yodo. Cuando se combina, pasa a un color blanco o amarillo.",
+            "https://es.wikipedia.org/wiki/Talio"
+        ],
+        "appareance": "blanco plateado",
+        "category": "post-transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal posterior a la transici\u00f3n"
+    },
+    "Pb": {
+        "name": "Plomo",
+        "summary": [
+            "El plomo es un elemento qu\u00edmico de la tabla peri\u00f3dica, cuyo s\u00edmbolo es Pb (del lat\u00edn plumbum) y su n\u00famero at\u00f3mico es 82 seg\u00fan la tabla actual, ya que no formaba parte en la tabla peri\u00f3dica de Mendel\u00e9yev. Este qu\u00edmico no lo reconoc\u00eda como un elemento met\u00e1lico com\u00fan por su gran elasticidad molecular. Cabe destacar que la elasticidad de este elemento depende de la temperatura ambiente, la cual extiende sus \u00e1tomos.\nEl plomo es un metal pesado de densidad relativa o gravedad espec\u00edfica 11,4 a 16 \u00b0C, de color plomo (gris oscuro), que se empa\u00f1a para adquirir un color gris mate. Es flexible, inel\u00e1stico y se funde con facilidad. Su fusi\u00f3n se produce a 327,4 \u00b0C y hierve a 1725 \u00b0C. Las valencias qu\u00edmicas normales son 2 y 4. Es relativamente resistente al ataque del \u00e1cido sulf\u00farico y del \u00e1cido clorh\u00eddrico, aunque se disuelve con lentitud en \u00e1cido n\u00edtrico y ante la presencia de bases nitrogenadas. El plomo es anf\u00f3tero, ya que forma sales de plomo de los \u00e1cidos, as\u00ed como sales met\u00e1licas del \u00e1cido pl\u00fambico. Tiene la capacidad de formar muchas sales, \u00f3xidos y compuestos organomet\u00e1licos.",
+            "https://es.wikipedia.org/wiki/Plomo"
+        ],
+        "appareance": "gris metalizado",
+        "category": "post-transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal posterior a la transici\u00f3n"
+    },
+    "Bi": {
+        "name": "Bismuto",
+        "summary": [
+            "El bismuto es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Bi, su n\u00famero at\u00f3mico es 83 y se encuentra en el grupo 15 del sistema peri\u00f3dico.\nYa era conocido en la antig\u00fcedad, pero hasta mediados del siglo XVIII era confundido con el plomo, esta\u00f1o y zinc. Ocupa el lugar 73 en abundancia entre los elementos de la corteza terrestre (representa el 8,5 \u00d7 10\u22127 % del peso de la corteza) y es tan escaso como la plata. Los principales dep\u00f3sitos est\u00e1n en Sudam\u00e9rica, pero en Estados Unidos se obtiene principalmente como subproducto del refinado de los minerales de cobre y plomo.\nEs un metal t\u00edpico desde el punto de vista qu\u00edmico. En compuestos, tiene valencias de +3 (bismuto (III)) o +5 (bismuto (V)), siendo m\u00e1s estables los compuestos de bismuto trivalente. Existen varios nitratos, especialmente el nitrato de bismuto, Bi(NO3)3, o trinitrato de bismuto, y su pentahidrato, Bi(NO3)3\u20225H 2O, que se descompone en nitrato de bismuto. Este tambi\u00e9n se conoce como oxinitrato de bismuto, nitrato de bismutilo, blanco perla y blanco de Espa\u00f1a, y se emplea en medicina y en cosm\u00e9tica.\nEl bismuto se expande al solidificarse; esta extra\u00f1a propiedad lo convierte en un metal id\u00f3neo para fundiciones. Algunas de sus aleaciones tienen puntos de fusi\u00f3n inusualmente bajos. Es una de las sustancias m\u00e1s fuertemente diamagn\u00e9ticas (dificultad para magnetizarse). Es un mal conductor del calor y la electricidad, y puede incrementarse su resistencia el\u00e9ctrica en un campo magn\u00e9tico, propiedad que lo hace \u00fatil en instrumentos para medir la fuerza de estos campos. Es opaco a los rayos X y puede emplearse en fluoroscopia.\nEntre los elementos no radiactivos, el bismuto tiene el n\u00famero at\u00f3mico y la masa at\u00f3mica (208,98) m\u00e1s altos. Tiene un punto de fusi\u00f3n de 271 \u00b0C, un punto de ebullici\u00f3n de 1560 \u00b0C y una densidad de 9800 kg/m\u00b3.",
+            "https://es.wikipedia.org/wiki/Bismuto"
+        ],
+        "appareance": "plata brillante",
+        "category": "post-transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal posterior a la transici\u00f3n"
+    },
+    "Po": {
+        "name": "Polonio",
+        "summary": [
+            "El polonio (lat\u00edn: Polonium) es un elemento qu\u00edmico en la tabla peri\u00f3dica de los elementos cuyo s\u00edmbolo es Po y su n\u00famero at\u00f3mico es 84. Se trata de un raro metal altamente radiactivo, qu\u00edmicamente similar al telurio y al bismuto, presente en minerales de uranio.",
+            "https://es.wikipedia.org/wiki/Polonio"
+        ],
+        "appareance": "plateado",
+        "category": "post-transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal posterior a la transici\u00f3n"
+    },
+    "At": {
+        "name": "Astato",
+        "summary": [
+            "El astato es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es At y su n\u00famero at\u00f3mico es 85. Es radiactivo y el m\u00e1s pesado de los hal\u00f3genos. Se produce a partir de la degradaci\u00f3n de uranio y torio. Es el elemento m\u00e1s raro de la corteza terrestre, ya que solo se encuentra en la cadena de desintegraci\u00f3n de varios elementos m\u00e1s pesados. Todos los is\u00f3topos de la astatina son de vida corta; el m\u00e1s estable es la astatina-210, con una vida media de 8,1 horas. Nunca se ha reunido una muestra del elemento puro, porque cualquier ejemplar macrosc\u00f3pico se vaporizar\u00eda inmediatamente por el calor de su propia radiactividad.\nLas propiedades de la astatina no se conocen con certeza. Muchas de ellas se han estimado bas\u00e1ndose en la posici\u00f3n del elemento en la tabla peri\u00f3dica como un an\u00e1logo m\u00e1s pesado del yodo, y un miembro de los hal\u00f3genos (el grupo de elementos que incluye el fl\u00faor, el cloro, el bromo y el yodo). Sin embargo, el astato tambi\u00e9n se encuentra aproximadamente en la l\u00ednea divisoria entre los metales y los no metales, y tambi\u00e9n se ha observado y predicho cierto comportamiento met\u00e1lico para \u00e9l. Es probable que el astato tenga un aspecto oscuro o lustroso y puede ser un semiconductor o posiblemente un metal. Desde el punto de vista qu\u00edmico, se conocen varias especies ani\u00f3nicas del astato y la mayor\u00eda de sus compuestos se parecen a los del yodo, pero a veces tambi\u00e9n presenta caracter\u00edsticas met\u00e1licas y muestra algunas similitudes con la plata.\nLa primera s\u00edntesis del elemento fue realizada en 1940 por Dale R. Corson, Kenneth Ross MacKenzie, y Emilio G. Segr\u00e8 en la Universidad de California (Berkeley), quienes lo nombraron a partir del griego astatos (\u1f04\u03c3\u03c4\u03b1\u03c4\u03bf\u03c2), que significa \u00abinestable\u00bb. Posteriormente se descubri\u00f3 que hay cuatro  is\u00f3topos de astatina que se producen de forma natural, aunque hay mucho menos de un gramo presente en cualquier momento en la corteza terrestre. Ni el is\u00f3topo m\u00e1s estable, la astatina-210, ni la astatina-211, de gran utilidad m\u00e9dica, se encuentran en la naturaleza; solo pueden producirse sint\u00e9ticamente, normalmente bombardeando bismuto-209 con part\u00edculas alfa.",
+            "https://es.wikipedia.org/wiki/Astato"
+        ],
+        "appareance": "desconocido, probablemente met\u00e1lico",
+        "category": "metalloid",
+        "phase": "S\u00f3lido",
+        "category_t": "Metaloide"
+    },
+    "Rn": {
+        "name": "Rad\u00f3n",
+        "summary": [
+            "El rad\u00f3n es un elemento qu\u00edmico perteneciente al grupo de los gases nobles. En su forma gaseosa es incoloro, inodoro e ins\u00edpido y en forma s\u00f3lida su color es rojizo. En la tabla peri\u00f3dica tiene el n\u00famero 86 y s\u00edmbolo Rn. Su masa media es de 222, lo que implica que por t\u00e9rmino medio tiene 222-86 = 136 neutrones. Igualmente, en estado neutro le corresponde tener el mismo n\u00famero de electrones que de protones, esto es, 86.\nEs un elemento radiactivo y gaseoso, encuadrado dentro de los llamados gases nobles.\nEl rad\u00f3n es producto de la desintegraci\u00f3n del radio (226Ra), elemento altamente radiactivo. El is\u00f3topo 219Rn es producto de la desintegraci\u00f3n del actinio, llamado actin\u00f3n y tiene una semivida de 4 segundos.\nAdem\u00e1s de todos estos, el rad\u00f3n tiene 22 is\u00f3topos artificiales, producidos por reacciones nucleares por transmutaci\u00f3n artificial en ciclotrones y aceleradores lineales. El is\u00f3topo m\u00e1s estable es el 222Rn, tambi\u00e9n el m\u00e1s abundante, con una semivida de 3,8 d\u00edas y producto de la desintegraci\u00f3n del 226Ra. Al emitir part\u00edculas alfa se convierte en 218Po.",
+            "https://es.wikipedia.org/wiki/Rad%C3%B3n"
+        ],
+        "appareance": "gas incoloro, ocasionalmente brilla de color verde o rojo en los tubos de descarga",
+        "category": "noble gas",
+        "phase": "Gas",
+        "category_t": "Gas noble"
+    },
+    "Fr": {
+        "name": "Francio",
+        "summary": [
+            "El francio es un elemento qu\u00edmico cuyo s\u00edmbolo es Fr y su n\u00famero at\u00f3mico es 87. Su electronegatividad es la m\u00e1s baja conocida y es el segundo elemento menos abundante en la naturaleza (el primero es el astato). El francio es un metal alcalino altamente radiactivo y reactivo que se desintegra generando astato, radio y rad\u00f3n. Como el resto de los metales alcalinos, solo posee un electr\u00f3n en su capa de valencia.\nMarguerite Perey descubri\u00f3 este elemento en 1939. El francio fue el \u00faltimo elemento qu\u00edmico descubierto en la naturaleza antes de ser sintetizado.\u200b Fuera del laboratorio, el francio es extremadamente escaso, encontr\u00e1ndose en trazas en menas de uranio y de torio, donde el 223Fr est\u00e1 continuamente form\u00e1ndose y desintegr\u00e1ndose. La cantidad de 223Fr en la corteza terrestre en un momento dado posiblemente no exceda los 30 gramos; el resto de los is\u00f3topos son sint\u00e9ticos. La mayor cantidad recuperada de cualquiera de sus is\u00f3topos fue un cl\u00faster de 10 000 millones de \u00e1tomos (de 210Fr) sintetizado como un gas ultra fr\u00edo en Stony Brook en 1996.\u200b",
+            "https://es.wikipedia.org/wiki/Francio"
+        ],
+        "appareance": null,
+        "category": "alkali metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal alcalino"
+    },
+    "Ra": {
+        "name": "Radio",
+        "summary": [
+            "El radio es un elemento qu\u00edmico de la tabla peri\u00f3dica. Su s\u00edmbolo es Ra y su n\u00famero at\u00f3mico es 88.\nEs de color blanco inmaculado, pero se ennegrece con la exposici\u00f3n al aire. El radio es un alcalinot\u00e9rreo que se encuentra a nivel de trazas en minas de uranio. Es extremadamente radiactivo, un mill\u00f3n de veces m\u00e1s que el uranio. Su is\u00f3topo m\u00e1s estable, Ra-226, tiene un periodo de semidesintegraci\u00f3n de 1.602 a\u00f1os y se transmuta dando rad\u00f3n.",
+            "https://es.wikipedia.org/wiki/Radio_(elemento)"
+        ],
+        "appareance": "blanco plateado metalizado",
+        "category": "alkaline earth metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal alcalinot\u00e9rreo"
+    },
+    "Ac": {
+        "name": "Act\u00ednio",
+        "summary": [
+            "El actinio (del griego \u03b1\u03ba\u03c4\u03b9\u03c2, \u03b1\u03ba\u03c4\u03b9\u03bdo\u03c2, rayo luminoso) es un elemento qu\u00edmico de s\u00edmbolo Ac y n\u00famero at\u00f3mico 89, perteneciente al grupo IIIB, periodo 7 y bloque D de la tabla peri\u00f3dica de los elementos.\u200b Es una de las tierras raras y da nombre a una de las series, la de los act\u00ednidos.\u200b\u200b\u200b Es un metal radiactivo blando que reluce en la oscuridad. Se conocen los is\u00f3topos con n\u00famero m\u00e1sico entre 209 y 234, siendo el m\u00e1s estable el 227Ac que tiene una vida media de 21,7 a\u00f1os.\u200b\nEl 227Ac se encuentra en el uranio natural en una proporci\u00f3n del orden del 0,175% y el 228Ac tambi\u00e9n se encuentra en la naturaleza.\u200b Hay otros 22 is\u00f3topos artificiales del actinio, todos radiactivos y todos con vidas medias muy cortas. Descubierto por Andr\u00e9-Louis Debierne en 1899, su principal aplicaci\u00f3n es como fuente de part\u00edculas alfa.\u200b",
+            "https://es.wikipedia.org/wiki/Actinio"
+        ],
+        "appareance": null,
+        "category": "actinide",
+        "phase": "S\u00f3lido",
+        "category_t": "Act\u00ednido"
+    },
+    "Th": {
+        "name": "T\u00f3rio",
+        "summary": [
+            "El torio es un elemento qu\u00edmico, de s\u00edmbolo Th y n\u00famero at\u00f3mico 90, de la serie de los act\u00ednidos. Se encuentra en estado natural en los minerales monacita, torita y torianita. En estado puro es un metal blando de color blanco-plata que se oxida lentamente. Si se tritura finamente y se calienta, arde y emite luz blanca.\u200b\nEl torio pertenece a la familia de las sustancias radiactivas, si bien su periodo de semidesintegraci\u00f3n es extremadamente largo. Su potencial como combustible nuclear, como material f\u00e9rtil, se debe a que presenta una alta secci\u00f3n eficaz frente a neutrones lentos (t\u00e9rmicos), derivando en protactinio-233, que r\u00e1pidamente se desintegra en uranio-233, el cual es un is\u00f3topo fisible que puede sostener una reacci\u00f3n nuclear en cadena. Esta aplicaci\u00f3n todav\u00eda est\u00e1 en fase de desarrollo.",
+            "https://es.wikipedia.org/wiki/Torio"
+        ],
+        "appareance": "plateado, a menudo con deslustre negro",
+        "category": "actinide",
+        "phase": "S\u00f3lido",
+        "category_t": "Act\u00ednido"
+    },
+    "Pa": {
+        "name": "Protact\u00ednio",
+        "summary": [
+            "El protactinio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Pa y su n\u00famero at\u00f3mico es 91.",
+            "https://es.wikipedia.org/wiki/Protactinio"
+        ],
+        "appareance": "brillo met\u00e1lico plateado brillante",
+        "category": "actinide",
+        "phase": "S\u00f3lido",
+        "category_t": "Act\u00ednido"
+    },
+    "U": {
+        "name": "Uranio",
+        "summary": [
+            "El uranio es un elemento qu\u00edmico met\u00e1lico de color plateado-gris\u00e1ceo de la serie de los act\u00ednidos, su s\u00edmbolo qu\u00edmico es U y su n\u00famero at\u00f3mico es 92. Por ello posee 92 protones y 92 electrones, con una valencia de 6. Su n\u00facleo puede contener entre 140 y 146 neutrones, sus is\u00f3topos m\u00e1s abundantes son el 238U que posee 146 neutrones y el 235U con 143 neutrones. El uranio tiene el mayor peso at\u00f3mico de entre todos los elementos que se encuentran en la naturaleza. El uranio es aproximadamente un 70 % m\u00e1s denso que el plomo, aunque menos denso que el oro o el wolframio. Es levemente radiactivo. Fue descubierto como \u00f3xido en 1789 por M. H. Klaproth que lo llam\u00f3 as\u00ed en el honor del planeta Urano que acababa de ser descubierto en 1781.",
+            "https://es.wikipedia.org/wiki/Uranio"
+        ],
+        "appareance": null,
+        "category": "actinide",
+        "phase": "S\u00f3lido",
+        "category_t": "Act\u00ednido"
+    },
+    "Np": {
+        "name": "Neptunio",
+        "summary": [
+            "El neptunio es un elemento transur\u00e1nico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Np y su n\u00famero at\u00f3mico es 93. Cuarto de la familia de los act\u00ednidos o segundo per\u00edodo de transici\u00f3n interna del sistema peri\u00f3dico de los elementos. Su nombre proviene del planeta Neptuno.\nAunque a lo largo de los a\u00f1os se hicieron muchas afirmaciones falsas sobre su descubrimiento, el elemento fue sintetizado por primera vez por Edwin McMillan y Philip H. Abelson en el Laboratorio de Radiaci\u00f3n de Berkeley en 1940. \u200b Desde entonces, la mayor parte del neptunio se ha producido y se sigue produciendo por irradiaci\u00f3n con neutrones de uranio en reactores nucleares. La gran mayor\u00eda se genera como subproducto en los reactores nucleares convencionales. Aunque el neptunio en s\u00ed no tiene usos comerciales en la actualidad, se utiliza como precursor para la formaci\u00f3n de plutonio-238, y en generadores termoel\u00e9ctricos de radiois\u00f3topos para proporcionar electricidad a naves espaciales. El neptunio tambi\u00e9n se ha utilizado en detectores de neutrones de alta energ\u00eda.",
+            "https://es.wikipedia.org/wiki/Neptunio"
+        ],
+        "appareance": "metalizado plateado",
+        "category": "actinide",
+        "phase": "S\u00f3lido",
+        "category_t": "Act\u00ednido"
+    },
+    "Pu": {
+        "name": "Plutonio",
+        "summary": [
+            "El plutonio es un elemento transur\u00e1nico radiactivo con el s\u00edmbolo qu\u00edmico Pu y el n\u00famero at\u00f3mico 94. Es un metal act\u00ednido con apariencia gris plateada que se oscurece cuando es expuesto al aire, formando una capa opaca cuando se oxida. El elemento normalmente exhibe seis estados alotr\u00f3picos y cuatro de oxidaci\u00f3n. Reacciona con el carbono, los hal\u00f3genos, nitr\u00f3geno y silicio. Cuando se expone al aire h\u00famedo forma \u00f3xidos e hidruros que expanden hasta un 70% su volumen, que a su vez, se desprende en forma de polvo que puede inflamarse de forma espont\u00e1nea. Tambi\u00e9n es un elemento radiactivo y se puede acumular en los huesos. Estas propiedades hacen que manipular plutonio sea peligroso.\nEl plutonio es el elemento primordial m\u00e1s pesado en virtud a su is\u00f3topo m\u00e1s estable, el plutonio-244, con una semivida aproximada de 80 millones de a\u00f1os es tiempo suficiente para que el elemento se encuentre en peque\u00f1as cantidades en la naturaleza.\u200b El plutonio es principalmente un subproducto de la fisi\u00f3n nuclear en los reactores, donde algunos de los neutrones liberados por el proceso de fisi\u00f3n convierten n\u00facleos de uranio-238 en plutonio.\u200b\nUno de los is\u00f3topos del plutonio utilizados es el plutonio-239, que tiene una semivida de 24 100 a\u00f1os. El plutonio-239, junto con el plutonio-241 son elementos fisibles, esto quiere decir que el n\u00facleo de sus \u00e1tomos se puede dividir cuando es bombardeado con neutrones t\u00e9rmicos, liberando energ\u00eda, radiaci\u00f3n gamma y m\u00e1s neutrones. Esos neutrones pueden mantener una reacci\u00f3n nuclear en cadena, dando lugar a aplicaciones en armas y reactores nucleares.\nEl plutonio-238 tiene una semivida de 88 a\u00f1os y emite part\u00edculas alfa. Es una fuente de calor en los generadores termoel\u00e9ctricos de radiois\u00f3topos, que son utilizados para proporcionar energ\u00eda a algunas sondas espaciales. El plutonio-240 tiene una tasa elevada de fisi\u00f3n espont\u00e1nea, aumentando el flujo de neutrones de cualquier muestra en la que se encuentre. La presencia de plutonio-240 limita el uso de muestras para armas o combustible nuclear y determina su grado. Los is\u00f3topos del plutonio son caros y dif\u00edciles de separar, por esto suelen fabricarse en reactores especializados.\nEl plutonio fue sintetizado por primera vez en 1940 por un equipo dirigido por Glenn T. Seaborg y Edwin McMillan en el laboratorio de la Universidad de California, Berkeley bombardeando uranio-238 con deuterio. Posteriormente se encontraron trazas de plutonio en la naturaleza. La producci\u00f3n de plutonio en cantidades \u00fatiles por primera vez fue una parte importante del Proyecto Manhattan durante la Segunda Guerra Mundial, que desarroll\u00f3 las primeras bombas at\u00f3micas. La primera prueba nuclear (\"Trinity\", en julio de 1945), y la segunda bomba at\u00f3mica usada para destruir una ciudad (\"Fat Man\" en Nagasaki, Jap\u00f3n en agosto de 1945) ten\u00edan n\u00facleos de plutonio-239. Durante y despu\u00e9s de la guerra, se realizaron experimentos con humanos sin consentimiento informado que estudiaban la radiaci\u00f3n del plutonio y tuvieron lugar varios accidentes cr\u00edticos, algunos de ellos letales. La eliminaci\u00f3n de los residuos de plutonio de las centrales nucleares y el desmantelamiento de las armas nucleares construidas durante la Guerra Fr\u00eda son preocupaciones sobre la proliferaci\u00f3n nuclear y el medio ambiente. Otras fuentes de plutonio en el medio ambiente son consecuencia de las numerosas pruebas nucleares en la superficie (ahora prohibidas).",
+            "https://es.wikipedia.org/wiki/Plutonio"
+        ],
+        "appareance": "blanco plateado, que se deslustra a gris oscuro en el aire",
+        "category": "actinide",
+        "phase": "S\u00f3lido",
+        "category_t": "Act\u00ednido"
+    },
+    "Am": {
+        "name": "Amer\u00edcio",
+        "summary": [
+            "El americio es un elemento qu\u00edmico artificial de n\u00famero at\u00f3mico 95 situado dentro del grupo de los act\u00ednidos en la tabla peri\u00f3dica de los elementos. Su s\u00edmbolo es Am. Todos sus is\u00f3topos son radiactivos y no existen en la naturaleza. Su nombre proviene de Am\u00e9rica, de forma an\u00e1loga al europio.\nEl americio fue producido por primera vez en 1944 por el grupo de Glenn T. Seaborg de Berkeley, California, en el Laboratorio metal\u00fargico de la Universidad de Chicago, como parte de la [ ]. Aunque es el tercer elemento en la elemento transur\u00e1nico, fue descubierto en cuarto lugar, despu\u00e9s del curio m\u00e1s pesado. El descubrimiento se mantuvo en secreto y solo se hizo p\u00fablico en noviembre de 1945. La mayor parte del americio es producido por uranio o plutonio bombardeados con neutrones en reactor nuclear - uno tonelada de combustible nuclear gastado contiene alrededor de 100 gramos de americio. Es ampliamente utilizado en c\u00e1mara de ionizaci\u00f3n detector de humos, as\u00ed como en fuente de neutronessy medidores industriales. Se han propuesto varias aplicaciones inusuales, como bater\u00edas nucleares o combustible para naves espaciales con propulsi\u00f3n nuclear, para el is\u00f3topo 242mAm, pero a\u00fan se ven obstaculizadas por la escasez y el alto precio de este is\u00f3mero nuclear.\nEl americio es un producto radiactivo relativamente suave con apariencia plateada. Sus is\u00f3topos m\u00e1s comunes son 241Am y 243Am. En compuestos qu\u00edmicos, el americio generalmente asume el estado de oxidaci\u00f3n +3, especialmente en soluciones.Se conocen otros estados de oxidaci\u00f3n, que van de +2 a +7, y pueden identificarse por sus espectros de absorci\u00f3n \u00f3ptica caracter\u00edsticos. La red cristalina del americio s\u00f3lido y sus compuestos contienen peque\u00f1os defectos radiog\u00e9nicos intr\u00ednsecos, debidos a la metamictizaci\u00f3n inducida por la autoirradiaci\u00f3n con part\u00edculas alfa, que se acumula con el tiempo; esto puede causar una deriva de algunas propiedades del material con el tiempo, m\u00e1s notable en las muestras m\u00e1s antiguas.\n\n",
+            "https://es.wikipedia.org/wiki/Americio"
+        ],
+        "appareance": "blanco plateado",
+        "category": "actinide",
+        "phase": "S\u00f3lido",
+        "category_t": "Act\u00ednido"
+    },
+    "Cm": {
+        "name": "Curio",
+        "summary": [
+            "El curio es un elemento sint\u00e9tico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Cm y su n\u00famero at\u00f3mico es 96. Se produce bombardeando plutonio con part\u00edculas alfa. Es un act\u00ednido. El curio no existe en el ambiente terrestre, pero puede producirse en forma artificial. Sus propiedades qu\u00edmicas se parecen tanto a las de las tierras raras t\u00edpicas que, si no fuera por su radiactividad, podr\u00eda confundirse f\u00e1cilmente con uno de estos elementos. Entre los is\u00f3topos conocidos del curio figuran los de n\u00famero de masa 238 a 250. El is\u00f3topo 244Cm es de particular inter\u00e9s a causa de su uso potencial como una fuente compacta de fuerza termoel\u00e9ctrica, al utilizarse el calor generado por decaimiento nuclear para generar fuerza el\u00e9ctrica.\nEl curio es un metal duro, denso y plateado con un punto de fusi\u00f3n y ebullici\u00f3n relativamente altos para un act\u00ednido. Mientras que es paramagn\u00e9tico a condiciones ambientales est\u00e1ndar, se convierte en antiferromagn\u00e9tico al enfriarse, y tambi\u00e9n se observan otras transiciones magn\u00e9ticas en muchos compuestos de curio. En los compuestos, el curio suele presentar valencia +3 y a veces +4, y la valencia +3 es predominante en las soluciones. El curio se oxida f\u00e1cilmente, y sus \u00f3xidos son una forma dominante de este elemento. Forma complejos fuertemente fluorescentes con varios compuestos org\u00e1nicos, pero no hay pruebas de su incorporaci\u00f3n en bacterias y arqueas. Cuando se introduce en el cuerpo humano, el curio se acumula en los huesos, los pulmones y el h\u00edgado, donde favorece el c\u00e1ncer.\nEl curio met\u00e1lico puede producirse por reducci\u00f3n del trifluoruro de curio, con vapor de bario. El metal tiene un lustre plateado, el cual se pierde al contacto con el aire, y una densidad relativa de 13.5. El punto de fusi\u00f3n es de 1340 (+/-) 40 \u00b0C (2444 +/- 72 \u00b0F). El metal se disuelve con facilidad en \u00e1cidos minerales comunes, con formaci\u00f3n de ion tripositivo.\nSe han preparado varios compuestos s\u00f3lidos del curio y sus estructuras se han determinado por difracci\u00f3n de rayos X. Estos incluyen CmF4, CmF3, CmCl3, CmBr3, CmI3, Cm2O3, CmO2. En los lant\u00e1nidos hay an\u00e1logos isoestructurales de los compuestos de curio.",
+            "https://es.wikipedia.org/wiki/Curio"
+        ],
+        "appareance": "met\u00e1lico plateado, brilla de color p\u00farpura en la oscuridad",
+        "category": "actinide",
+        "phase": "S\u00f3lido",
+        "category_t": "Act\u00ednido"
+    },
+    "Bk": {
+        "name": "Berkelio",
+        "summary": [
+            "El berkelio es un elemento sint\u00e9tico de la tabla peri\u00f3dica cuyo s\u00edmbolo es el Bk y su n\u00famero at\u00f3mico es 97. Pertenece a la serie de los act\u00ednidos y elementos transur\u00e1nicos.\u200b Su nombre es un homenaje a la ciudad de Berkeley, California,\u200b donde se encuentra el Laboratorio de Radiaci\u00f3n de la Universidad de California, Lo descubrieron en 1949 S. G. Thompson, A. Ghiorso y G. T. Seaborg en la Universidad de California en Berkeley.\u200b El berkelio fue el quinto elemento transur\u00e1nido sint\u00e9tico descubierto luego del neptunio, plutonio, curio y americio.\n\nEl is\u00f3topo principal del berkelio es el berkelio-249,\u200b el cual se sintetiza en cantidades \u00ednfimas en un reactor nuclear de alto flujo, especialmente en el Oak Ridge National Laboratory de Tennessee, Estados Unidos, y en el Research Institute of Atomic Reactors de Dimitrovgrad, Rusia. Para producir el is\u00f3topo berkelio-247, se irradia el is\u00f3topo sint\u00e9tico curio-244, que es muy escaso, con part\u00edculas alfa de alta energ\u00eda.\nDesde 1967, la producci\u00f3n total de berkelio en los Estados Unidos apenas supera la cantidad de un gramo. No existe, pues, una aplicaci\u00f3n pr\u00e1ctica del berkelio, aparte de la investigaci\u00f3n cient\u00edfica, que se centra principalmente en la s\u00edntesis de elementos transur\u00e1nicos m\u00e1s pesados y transact\u00ednidos. En el a\u00f1o 2009, en Oak Ridge, se prepar\u00f3 una cantidad de 22 miligramos de berkelio-249 mediante la irrradiaci\u00f3n durante 250 d\u00edas, seguida de un proceso de purificaci\u00f3n de 90 d\u00edas. Esta muestra fue utilizada para sintetizar, en 2009 y por primera vez, el elemento ununseptio en el Joint Institute for Nuclear Research, Rusia, tras ser bombardeado con iones de  calcio-48 durante 150 d\u00edas. Este experimento fue la culminaci\u00f3n de la colaboraci\u00f3n entre Rusia y los Estados Unidos para la s\u00edntesis de los elementos 113 al 118.\nEl berkelio es un metal radiactivo, blando y de color plateado blanquecino. El is\u00f3topo berkelio-249 emite electrones de baja energ\u00eda y por lo tanto es relativamente segura su manipulaci\u00f3n. Sin embargo, su vida media es de 330 d\u00edas y, al desintegrarse, da como resultado californio-249, un emisor de part\u00edculas alfa muy potente y peligroso. Esta transformaci\u00f3n gradual resulta especialmente problem\u00e1tica cuando se estudian las propiedades del berkelio elemental y sus compuestos qu\u00edmicos, dado que la formaci\u00f3n del californio no solo produce contaminaci\u00f3n qu\u00edmica, sino tambi\u00e9n da\u00f1o por radiaci\u00f3n autoinfligido, adem\u00e1s de ser term\u00f3geno debido a las part\u00edculas alfa que emite.",
+            "https://es.wikipedia.org/wiki/Berkelio"
+        ],
+        "appareance": "plateado",
+        "category": "actinide",
+        "phase": "S\u00f3lido",
+        "category_t": "Act\u00ednido"
+    },
+    "Cf": {
+        "name": "Californio",
+        "summary": [
+            "El californio es un elemento qu\u00edmico radiactivo con s\u00edmbolo Cf y n\u00famero at\u00f3mico 98. Este elemento fue obtenido por primera vez en la Universidad de California en Berkeley en 1950 bombardeando curio con part\u00edculas alfa \u2014iones de helio-4\u2014. Es un elemento act\u00ednido, el sexto de los elementos transur\u00e1nicos en ser sintetizado, y tiene la segunda mayor masa at\u00f3mica de todos los elementos que han sido producidos en cantidades suficientemente grandes para ser visto a simple vista, despu\u00e9s del einstenio. El nombre del elemento se debe a California y la Universidad de California. Es el elemento m\u00e1s pesado que se produce en la Tierra de forma natural; los elementos de mayor masa at\u00f3mica solo pueden ser producidos mediante s\u00edntesis.\nExisten dos estructuras cristalinas para el californio a presi\u00f3n normal: una por encima y otra por debajo de los 900 \u00b0C. A altas presiones aparece una tercera forma. El californio pierde su brillo lentamente en contacto con el aire a temperatura ambiente. Los compuestos del californio tienen en su mayor\u00eda una forma qu\u00edmica del elemento, denominada californio (III), la cual puede participar en tres enlaces qu\u00edmicos. De los veinte is\u00f3topos conocidos del californio, el m\u00e1s estable es el californio-251, que tiene una vida media de 898 a\u00f1os. Esta vida media tan corta implica que no se encuentren cantidades significativas de este elemento en la corteza terrestre.\u200b El californio-252, con una vida media de 2,64 a\u00f1os, es el is\u00f3topo usado m\u00e1s com\u00fan y es producido en el Laboratorio Nacional Oak Ridge en los Estados Unidos y en el Instituto de Investigaci\u00f3n de Reactores At\u00f3micos en Rusia.\nEl californio es uno de los pocos elementos transur\u00e1nicos que tiene aplicaciones pr\u00e1cticas. La mayor parte de estas usan las propiedades de ciertos is\u00f3topos del californio para emitir neutrones. Por ejemplo, se puede usar para ayudar a encender reactores nucleares y como fuente de neutrones en el estudio de materiales mediante la difracci\u00f3n de neutrones y espectroscop\u00eda de neutrones. Tambi\u00e9n se puede usar en la s\u00edntesis nuclear de elementos de mayor masa; el oganes\u00f3n \u2014elemento 118\u2014 fue sintetizado bombardeando \u00e1tomos de californio-249 con iones de calcio-48. Cuando se trabaja con californio hay que tener en cuenta consideraciones radiol\u00f3gicas as\u00ed como la capacidad de este elemento para interrumpir la producci\u00f3n de gl\u00f3bulos rojos por bioacumulaci\u00f3n en el tejido \u00f3seo.",
+            "https://es.wikipedia.org/wiki/Californio"
+        ],
+        "appareance": "plateado",
+        "category": "actinide",
+        "phase": "S\u00f3lido",
+        "category_t": "Act\u00ednido"
+    },
+    "Es": {
+        "name": "Einstenio",
+        "summary": [
+            "El einstenio es un elemento sint\u00e9tico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Es y su n\u00famero at\u00f3mico es 99. Fue llamado as\u00ed en honor de Albert Einstein, aunque se descubri\u00f3 en diciembre de 1952 en los restos de la primera explosi\u00f3n termonuclear en el Pac\u00edfico, realizada un mes antes, por el equipo de investigadores formado por G. R. Choppin, A. Ghiorso, B. G. Harvey y S. G. Thompson.\u200b\u200b\u200b\nComo muchos elementos de este mismo grupo, no se encuentra en la naturaleza, sino que se obtiene artificialmente, adem\u00e1s de que su tiempo de vida es menor.\nEl proceso de obtenci\u00f3n es a trav\u00e9s de una transmutaci\u00f3n nuclear de elementos m\u00e1s ligeros. La transmutaci\u00f3n consiste en convertir n\u00facleos estables en otros n\u00facleos al ser bombardeados por part\u00edculas a alta velocidad.  \nEl primer experimento de ese tipo fue realizado por Ernest Rutherford (f\u00edsico y qu\u00edmico neozeland\u00e9s). Consisti\u00f3 en mandar part\u00edculas alfa sobre una fina l\u00e1mina de oro y observar c\u00f3mo esta afectaba a la trayectoria de los rayos.  \nEl 254Es puede sintetizarse por bombardeo de Am, Pu o Cm con neutrones.",
+            "https://es.wikipedia.org/wiki/Einstenio"
+        ],
+        "appareance": "color plata",
+        "category": "actinide",
+        "phase": "S\u00f3lido",
+        "category_t": "Act\u00ednido"
+    },
+    "Fm": {
+        "name": "Fermio",
+        "summary": [
+            "El fermio es un elemento qu\u00edmico radiactivo creado artificialmente cuyo n\u00famero at\u00f3mico es 100 y de peso at\u00f3mico 254, de s\u00edmbolo Fm. Existen 16 is\u00f3topos conocidos siendo el 257Fm el m\u00e1s estable con un periodo de semidesintegraci\u00f3n de 100,5 d\u00edas. El fermio es uno de los elementos transur\u00e1nicos del grupo de los act\u00ednidos del sistema peri\u00f3dico. El elemento fue aislado en 1952, a partir de los restos de una explosi\u00f3n de bomba de hidr\u00f3geno, por el qu\u00edmico estadounidense Albert Ghiorso y sus colegas. M\u00e1s tarde el fermio fue preparado sint\u00e9ticamente en un reactor nuclear bombardeando plutonio con neutrones, y en un ciclotr\u00f3n bombardeando uranio 238 con iones de nitr\u00f3geno. Se han obtenido is\u00f3topos con n\u00fameros m\u00e1sicos desde 242 a 259; el fermio 257, que es el que tiene una vida m\u00e1s larga, tiene una vida media de 80 d\u00edas. Al elemento se le dio el nombre de fermio en 1955, en honor al f\u00edsico nuclear estadounidense de origen italiano Enrico Fermi. El fermio no tiene aplicaciones industriales.",
+            "https://es.wikipedia.org/wiki/Fermio"
+        ],
+        "appareance": null,
+        "category": "actinide",
+        "phase": "S\u00f3lido",
+        "category_t": "Act\u00ednido"
+    },
+    "Md": {
+        "name": "Mendelevio",
+        "summary": [
+            "El mendelevio es un elemento de la tabla peri\u00f3dica cuyo s\u00edmbolo es Md (anteriormente Mv) y su n\u00famero at\u00f3mico es 101\u200b. El nombre de este elemento proviene del creador de la tabla peri\u00f3dica de los elementos: Dmitri Mendeleyev (1834-1907).\n\n",
+            "https://es.wikipedia.org/wiki/Mendelevio"
+        ],
+        "appareance": null,
+        "category": "actinide",
+        "phase": "S\u00f3lido",
+        "category_t": "Act\u00ednido"
+    },
+    "No": {
+        "name": "Nobelio",
+        "summary": [
+            "El nobelio es un elemento sint\u00e9tico de la tabla peri\u00f3dica cuyo s\u00edmbolo es No y su n\u00famero at\u00f3mico es 102, llamado as\u00ed en honor del inventor Alfred Nobel. Es el 11\u00ba elemento sint\u00e9tico de la tabla peri\u00f3dica. Su decaimiento se realiza por emisi\u00f3n de part\u00edculas alfa, es decir, un ion de helio doblemente cargado. Hasta la fecha solo se han producido cantidades at\u00f3micas del elemento. El nobelio es el d\u00e9cimo elemento m\u00e1s pesado que el uranio producido sint\u00e9ticamente y el 14.\u00ba miembro de los act\u00ednidos.\nFue identificado por primera vez en forma correcta en 1966 por cient\u00edficos del Laboratorio Fli\u00f3rov de Reacciones Nucleares en Dubn\u00e1, Rusia. Se sabe muy poco sobre este elemento, pero los escasos experimentos qu\u00edmicos que se han llevado a cabo han permitido establecer que el mismo forma un ion bivalente estable en soluci\u00f3n como tambi\u00e9n el ion trivalente predicho asociado con su pertenencia al grupo de los act\u00ednidos.",
+            "https://es.wikipedia.org/wiki/Nobelio"
+        ],
+        "appareance": null,
+        "category": "actinide",
+        "phase": "S\u00f3lido",
+        "category_t": "Act\u00ednido"
+    },
+    "Lr": {
+        "name": "Lawrencio",
+        "summary": [
+            "El lawrencio o laurencio\u200b es un elemento sint\u00e9tico radiactivo de la tabla peri\u00f3dica de los elementos cuyo s\u00edmbolo es Lr (anteriormente Lw) y su n\u00famero at\u00f3mico es 103. En la tabla peri\u00f3dica, se sit\u00faa en el bloque d y en el per\u00edodo 7, y es el \u00faltimo elemento y el m\u00e1s pesado de la serie de los act\u00ednidos. Experimentos qu\u00edmicos confirmaron que el lawrencio se comporta hom\u00f3logamente al lutecio y es qu\u00edmicamente similar a otros act\u00ednidos.\nEl lawrencio fue sintetizado por primera vez por el equipo de f\u00edsica nuclear del Laboratorio Nacional Lawrence Berkeley de la Universidad de California, dirigido por Albert Ghiorso. Los primeros \u00e1tomos de lawrencio fueron producidos al bombardear un blanco de tres miligramos, compuesto de tres is\u00f3topos de californio con n\u00facleos de boro-10 y boro-11 del Acelerador lineal de iones pesados. El equipo sugiri\u00f3 para el elemento el nombre lawrencio, en honor al f\u00edsico estadounidense Ernest O. Lawrence, y el s\u00edmbolo \u00abLw\u00bb, pero la IUPAC cambi\u00f3 el s\u00edmbolo a \u00abLr\u00bb en 1963.\u200b\u200b\nTodos los is\u00f3topos del lawrencio son radiactivos; su is\u00f3topo m\u00e1s estable conocido es 266Lr, con un periodo de semidesintegraci\u00f3n de aproximadamente 11 horas.\u200b Todos los dem\u00e1s is\u00f3topos, excepto 260Lr,\u202f261Lr,\u202f262Lr, se desintegran con una vida menor a un minuto.",
+            "https://es.wikipedia.org/wiki/Lawrencio"
+        ],
+        "appareance": null,
+        "category": "actinide",
+        "phase": "S\u00f3lido",
+        "category_t": "Act\u00ednido"
+    },
+    "Rf": {
+        "name": "Ruterfordio",
+        "summary": [
+            "El grupo 4 de la tabla peri\u00f3dica lo comprenden los elementos  qu\u00edmicos titanio (Ti), circonio (Zr) y hafnio (Hf), as\u00ed como el elemento rutherfordio (Rf), aunque no se suele tener en cuenta al referirse al grupo 4 pues se trata de un elemento sint\u00e9tico y radiactivo. \"Grupo 4\" es el nombre recomendado por la IUPAC; el antiguo nombre europeo es \"grupo IVA\", mientras que el nombre antiguo estadounidense es \"grupo IVB\". El nombre de la IUPAC no debe confundirse con los antiguos, dados con n\u00fameros romanos.\nEstos metales son bastante reactivos (sobre todo cuando est\u00e1n en forma de esponja porosa, de gran superficie espec\u00edfica, son pirof\u00f3ricos; esto es, al exponerse a la acci\u00f3n del aire se vuelven rojos e inflaman espont\u00e1neamente). Al estar compactos son pasivos, casi inatacables por cualquier agente atmosf\u00e9rico.\nTodos los elementos del grupo 4 son metales duros refractarios. Su reactividad inherente est\u00e1 completamente enmascarada debido a la formaci\u00f3n de una densa capa de \u00f3xido que los protege de la corrosi\u00f3n, as\u00ed como del ataque de muchos \u00e1cidos y \u00e1lcalis. Los tres primeros ocurren de forma natural. El ruterfordio es fuertemente radiactivo: no se produce de forma natural y debe ser producido por s\u00edntesis artificial, pero sus propiedades observadas y te\u00f3ricamente predichas son consistentes con que es un hom\u00f3logo m\u00e1s pesado del hafnio. Ninguno de ellos tiene ning\u00fan papel biol\u00f3gico.",
+            "https://es.wikipedia.org/wiki/Elementos_del_grupo_4"
+        ],
+        "appareance": null,
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Db": {
+        "name": "Dubnio",
+        "summary": [
+            "El dubnio es un elemento qu\u00edmico de la tabla peri\u00f3dica de los elementos cuyo s\u00edmbolo es Db y su n\u00famero at\u00f3mico 105. El elemento fue nombrado en honor a la ciudad de Dubn\u00e1, Rusia, sede del Instituto Central de Investigaciones Nucleares, donde fue producido por primera vez. Es un elemento sint\u00e9tico y radiactivo; y su is\u00f3topo m\u00e1s estable conocido, dubnio-268, tiene un per\u00edodo de semidesintegraci\u00f3n de aproximadamente veintiocho horas.\u200b\nEn la tabla peri\u00f3dica de los elementos, es un elemento del bloque d y es un elemento transact\u00ednido. Es un miembro del s\u00e9ptimo per\u00edodo y pertenece al grupo 5 de elementos. Experimentos qu\u00edmicos confirmaron que dubnio se comporta como el hom\u00f3logo m\u00e1s pesado que tantalio en el grupo 5. Las propiedades qu\u00edmicas del dubnio se conocen parcialmente. El elemento es similar a otros del grupo 5.\nEn los a\u00f1os sesenta, se produjeron cantidades microsc\u00f3picas de dubnio en laboratorios de la Uni\u00f3n Sovi\u00e9tica y California. Fue descubierto por el ruso Gueorgui Fli\u00f3rov en 1967-1970, y por el estadounidense Albert Ghiorso en 1970. Cuando se descubri\u00f3, la prioridad del descubrimiento y por lo tanto el nombramiento del elemento, se disput\u00f3 entre los cient\u00edficos sovi\u00e9ticos y estadounidenses, que unos propusieron llamarlo Nielsbohrio y los otros Hahnio,  aunque estos nombres no fueron reconocidos internacionalmente. Desde entonces el elemento se pas\u00f3 a llamar temporalmente unnilpentio, hasta que en 1997 la Uni\u00f3n Internacional de Qu\u00edmica Pura y Aplicada \u2014IUPAC por sus siglas en ingl\u00e9s\u2014 estableci\u00f3 como el nombre oficial del elemento a dubnio.",
+            "https://es.wikipedia.org/wiki/Dubnio"
+        ],
+        "appareance": null,
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Sg": {
+        "name": "Seaborgio",
+        "summary": [
+            "El seaborgio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Sg y su n\u00famero at\u00f3mico es 106. Es un elemento sint\u00e9tico cuyo is\u00f3topo m\u00e1s estable es el 271Sg que tiene una vida media de 2,4 minutos. Su naturaleza qu\u00edmica es similar a la del wolframio.",
+            "https://es.wikipedia.org/wiki/Seaborgio"
+        ],
+        "appareance": null,
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Bh": {
+        "name": "Bohrio",
+        "summary": [
+            "El bohrio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Bh y su n\u00famero at\u00f3mico es 107. Su nombre le fue dado en honor al cient\u00edfico dan\u00e9s Niels Bohr.\nElemento qu\u00edmico que se espera que tenga propiedades qu\u00edmicas semejantes a las del elemento renio. Fue sintetizado e identificado sin ambig\u00fcedad en 1981 por un equipo de Darmstadt, Alemania, equipo dirigido por P. Armbruster y G. M\u00fczenberg. La reacci\u00f3n usada para producir el elemento fue propuesta y aplicada en 1976 por un grupo de Dubna (cerca de Mosc\u00fa), que estaba bajo la gu\u00eda de Yuri Oganesi\u00e1n. Un blanco de 209Bi fue bombardeado por un haz de proyectiles de 54Cr.\nLa mejor t\u00e9cnica para identificar un nuevo is\u00f3topo es su correlaci\u00f3n gen\u00e9tica con is\u00f3topos conocidos a trav\u00e9s de una cadena de desintegraci\u00f3n radiactiva. En general, estas cadenas de decaimiento se interrumpen por fisi\u00f3n espont\u00e1nea. Con el fin de aplicar el an\u00e1lisis de cadena de decaimiento deber\u00edan producirse aquellos is\u00f3topos que son m\u00e1s estables frente a la fisi\u00f3n espont\u00e1nea, es decir, is\u00f3topos con n\u00fameros impares de protones y neutrones. Para hacer que estas p\u00e9rdidas por fisi\u00f3n se mantengan peque\u00f1as, debe producirse un n\u00facleo con la m\u00ednima energ\u00eda de excitaci\u00f3n posible. En este aspecto, son ventajosas las reacciones en las que se utilizan compa\u00f1eros de colisi\u00f3n relativamente sim\u00e9tricos y n\u00facleos estrechamente enlazados de capa cerrada como el 209Bi y el 208Pb como blancos, y el 48Ca y el 50Ti como proyectiles.\nEn el experimento de Darmstadt se encontraron seis cadenas de decaimiento. Todos los decaimientos pueden atribuirse al 262Bh, un n\u00facleo impar producido en una reacci\u00f3n de un neutr\u00f3n. El is\u00f3topo 262Bh decae por decaimiento de part\u00edcula alfa, con una vida media de unos 5ms. Ciertos experimentos de Dubna, llevados a cabo en 1983, establecieron la producci\u00f3n de 262Bh en la reacci\u00f3n 209Bi + 54Cr.",
+            "https://es.wikipedia.org/wiki/Bohrio"
+        ],
+        "appareance": null,
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Hs": {
+        "name": "Hasio",
+        "summary": [
+            "El hasio es un elemento sint\u00e9tico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Hs y su n\u00famero at\u00f3mico es 108. Su is\u00f3topo m\u00e1s estable es el Hs-269, que tiene un periodo de semidesintegraci\u00f3n de 9,7 segundos.",
+            "https://es.wikipedia.org/wiki/Hasio"
+        ],
+        "appareance": null,
+        "category": "transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Mt": {
+        "name": "Meitnerio",
+        "summary": [
+            "El meitnerio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Mt y su n\u00famero at\u00f3mico es 109. Es un elemento sint\u00e9tico cuyo is\u00f3topo m\u00e1s estable es el 278Mt, cuya vida media es de 7,6 s.",
+            "https://es.wikipedia.org/wiki/Meitnerio"
+        ],
+        "appareance": null,
+        "category": "unknown, probably transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Desconocido, probablemente metal de transici\u00f3n"
+    },
+    "Ds": {
+        "name": "Darmstadtio",
+        "summary": [
+            "Darmstadt es una ciudad del estado federado de Hesse, Alemania, con una poblaci\u00f3n estimada de 147 150 habitantes (430 993 en zona urbana).\u200b\u200b Se encuentra situada a unos 30 km al sur del centro de Fr\u00e1ncfort del Meno y a 40 km de Wiesbaden. Su red de transporte urbano consta de nueve l\u00edneas de tranv\u00eda y m\u00e1s de veinte l\u00edneas de autob\u00fas urbanas y regionales. La ciudad cuenta con una estaci\u00f3n para los trenes regionales y de larga distancia, y est\u00e1 conectada con la red de cercan\u00edas de la regi\u00f3n Rin-Meno. Darmstadt fue hist\u00f3ricamente un centro administrativo, erigi\u00e9ndose en sede del antiguo Landgraviato de Hesse-Darmstadt, y habiendo desarrollado un importante sector industrial, cient\u00edfico y educativo a partir de comienzos del siglo XX. Adem\u00e1s de albergar un gran n\u00famero de industrias qu\u00edmicas, entre las cuales destacan Merck (productos farmac\u00e9uticos) y R\u00f6hm (Plexigl\u00e1s), la ciudad es sede del Centro Europeo de Operaciones Espaciales de la Agencia Espacial Europea. Prueba de su pujanza en el \u00e1mbito cient\u00edfico es el hecho de que el elemento Darmstadtio (n\u00famero at\u00f3mico 110) de la tabla peri\u00f3dica tom\u00f3 su nombre en honor a la ciudad, al haber sido sintetizado en el Gesellschaft f\u00fcr Schwerionenforschung, GSI (centro de investigaci\u00f3n sobre iones pesados) situado en el barrio de Wixhausen (norte de Darmstadt).",
+            "https://es.wikipedia.org/wiki/Darmstadt"
+        ],
+        "appareance": null,
+        "category": "unknown, probably transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Desconocido, probablemente metal de transici\u00f3n"
+    },
+    "Rg": {
+        "name": "Roentgenio",
+        "summary": [
+            "El roentgenio es un elemento qu\u00edmico del grupo 11 de la tabla peri\u00f3dica cuyo s\u00edmbolo es Rg y su n\u00famero at\u00f3mico es 111.\u200b\nFue descubierto en 1994 por cient\u00edficos alemanes en Darmstadt. En noviembre de 2004 recibi\u00f3 el nombre de roentgenio en honor a Wilhelm Conrad R\u00f6ntgen (1845-1923), premio Nobel de F\u00edsica, descubridor de los rayos X. El roentgenio se obtiene a trav\u00e9s del bombardeo de hojas de bismuto (Bi) con iones de n\u00edquel (Ni), decayendo en 15 milisegundos.",
+            "https://es.wikipedia.org/wiki/Roentgenio"
+        ],
+        "appareance": null,
+        "category": "unknown, probably transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Desconocido, probablemente metal de transici\u00f3n"
+    },
+    "Cn": {
+        "name": "Copernicio",
+        "summary": [
+            "El copernicio es un elemento qu\u00edmico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Cn y su n\u00famero at\u00f3mico 112. Su apariencia f\u00edsica no se conoce a\u00fan, pero podr\u00eda calcularse, sabiendo que por ahora el is\u00f3topo conocido, de 285 de masa at\u00f3mica, tiene una vida media de 0,24 ms.\u200b\u200b",
+            "https://es.wikipedia.org/wiki/Copernicio"
+        ],
+        "appareance": null,
+        "category": "transition metal",
+        "phase": "Gas",
+        "category_t": "Metal de transici\u00f3n"
+    },
+    "Nh": {
+        "name": "Nihonio",
+        "summary": [
+            "El nihonio\u200b\u200b es el nombre para el elemento sint\u00e9tico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Nh y su n\u00famero at\u00f3mico es 113.\u200b\nSu descubrimiento ha sido adjudicado de forma oficial a los investigadores japoneses del laboratorio Riken, que lograron sintetizar y observar el elemento a finales de 2015, convirti\u00e9ndose as\u00ed en el primer elemento sint\u00e9tico en ser producido en Jap\u00f3n, como resultado de la desintegraci\u00f3n del elemento 115 (moscovio). Su nombre proviene de la palabra \"Nihon\", el t\u00e9rmino utilizado para designar a Jap\u00f3n en su lengua nativa.\u200b Es un elemento radiactivo cuyo is\u00f3topo m\u00e1s estable conocido, nihonio-286, tiene una vida media de 20 segundos.\nEn la tabla peri\u00f3dica, es un elemento transact\u00ednido del bloque p, y es miembro del s\u00e9ptimo per\u00edodo dentro del grupo del boro, aunque no se realiz\u00f3 ning\u00fan experimento qu\u00edmico que haya confirmado que este se comporte como el hom\u00f3logo m\u00e1s pesado que el talio dentro de este grupo. Se cree que el nihonio tenga algunas propiedades similares a la de sus hom\u00f3logos m\u00e1s livianos, es decir, boro, aluminio, galio, indio y talio, aunque tambi\u00e9n deber\u00eda mostrar varias diferencias con estos. A diferencia de otros elementos del bloque p, se prev\u00e9 que muestre algunas caracter\u00edsticas de metales de transici\u00f3n.",
+            "https://es.wikipedia.org/wiki/Nihonio"
+        ],
+        "appareance": null,
+        "category": "unknown, probably transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Desconocido, probablemente metal de transici\u00f3n"
+    },
+    "Fl": {
+        "name": "Flerovio",
+        "summary": [
+            "Flerovio es el nombre de un elemento qu\u00edmico radiactivo con el s\u00edmbolo Fl y n\u00famero at\u00f3mico 114. Nombrado en honor a Gueorgui Fli\u00f3rov.\u200b\nHasta la fecha se han observado alrededor de 80 desintegraciones de \u00e1tomos de flerovio, 50 de ellas directamente y 30 de la desintegraci\u00f3n de los elementos m\u00e1s pesados livermorio y oganes\u00f3n. Todas las desintegraciones han sido asignadas a los cuatro is\u00f3topos vecinos con n\u00fameros de masa 286-289. El is\u00f3topo de m\u00e1s larga vida conocido actualmente es el 289Fl114 con una vida media de aproximadamente 2,6 s, aunque hay evidencias de un is\u00f3mero, 289bFl114, con una vida media de aproximadamente 66 s, que ser\u00eda uno de los n\u00facleos m\u00e1s longevos en la regi\u00f3n de los elementos superpesados.\nExperimentos qu\u00edmicos muy recientes han indicado fuertemente que el elemento 114 no posee propiedades 'eka'-plomo y parece comportarse como el primer elemento superpesado, que presenta propiedades similares a los gases nobles debido a efectos relativistas.\u200b",
+            "https://es.wikipedia.org/wiki/Flerovio"
+        ],
+        "appareance": null,
+        "category": "post-transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal posterior a la transici\u00f3n"
+    },
+    "Mc": {
+        "name": "Moscovio",
+        "summary": [
+            "El moscovio\u200b es un elemento sint\u00e9tico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Mc y su n\u00famero at\u00f3mico es 115.\u200b\nActualmente se conocen cuatro is\u00f3topos desde 287Mc hasta 290Mc. Se prev\u00e9 que el is\u00f3topo m\u00e1s estable del moscovio sea el 299Mc, que contiene el n\u00famero m\u00e1gico de 184 neutrones. El is\u00f3topo con mayor n\u00famero de neutrones conocido hasta la fecha es el 290Mc, con 175 neutrones. Es muy inestable, con una vida media de mil\u00e9simas de segundo. Su nombre hace referencia al \u00f3blast de Mosc\u00fa, regi\u00f3n a la que pertenece la ciudad de Dubn\u00e1, en el que se encuentra el Instituto Central de Investigaciones Nucleares.",
+            "https://es.wikipedia.org/wiki/Moscovio"
+        ],
+        "appareance": null,
+        "category": "unknown, probably post-transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal desconocido, probablemente posterior a la transici\u00f3n"
+    },
+    "Lv": {
+        "name": "Livermorio",
+        "summary": [
+            "El livermorio es el nombre del elemento sint\u00e9tico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Lv y su n\u00famero at\u00f3mico es 116. \nSu nombre viene dado en honor al Laboratorio Nacional Lawrence Livermore (Lawrence Livermore National Laboratory), en Livermore, California.",
+            "https://es.wikipedia.org/wiki/Livermorio"
+        ],
+        "appareance": null,
+        "category": "unknown, probably post-transition metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Metal desconocido, probablemente posterior a la transici\u00f3n"
+    },
+    "Ts": {
+        "name": "Teneso",
+        "summary": [
+            "El teneso\u200b es un elemento sint\u00e9tico muy pesado de la tabla peri\u00f3dica de los elementos cuyo s\u00edmbolo es Ts y n\u00famero at\u00f3mico 117. Tambi\u00e9n conocido como eka-astato o simplemente elemento 117, es el segundo elemento m\u00e1s pesado creado hasta ahora y el pen\u00faltimo del s\u00e9ptimo per\u00edodo en la tabla peri\u00f3dica.\\nSu descubrimiento se anunci\u00f3 en 2010 y fue fruto de una colaboraci\u00f3n entre cient\u00edficos rusos y estadounidenses en el Instituto Central de Investigaciones Nucleares de Dubn\u00e1, Rusia. En un experimento en 2011, se cre\u00f3 directamente uno de sus productos de desintegraci\u00f3n, confirmando parcialmente los resultados del experimento inicial; el experimento, adem\u00e1s, fue repetido con \u00e9xito en 2012. En 2014, el Centro GSI Helmholtz para la Investigaci\u00f3n de Iones Pesados de Alemania tambi\u00e9n afirm\u00f3 haber reproducido el experimento original. El grupo formado por la IUPAC y la IUPAP \u2014IUPAC/IUPAP Joint Working Party\u2014, que se encarga de examinar las reivindicaciones de descubrimientos de elementos superpesados, confirm\u00f3 el descubrimiento en diciembre de 2015. En junio de 2016, sus descubridores propusieron nombrarlo tennessine (seg\u00fan Tennessee, sede del Laboratorio Nacional Oak Ridge), traducido inicialmente como tenesino o t\u00e9neso. Finalmente, el 28 de noviembre de 2016, la IUPAC aprob\u00f3 el nombre propuesto (en ingl\u00e9s), habiendo divergencias en la traducci\u00f3n del nombre al espa\u00f1ol, hasta que finalmente la Real Academia de Ciencias, la Real Sociedad Espa\u00f1ola de Qu\u00edmica, la RAE y la Fund\u00e9u acordaron promover la forma llana teneso.\\nEn la tabla peri\u00f3dica, el teneso est\u00e1 ubicado en el grupo 17, cuyos miembros de n\u00famero at\u00f3mico menor son hal\u00f3genos. Sin embargo, es probable que el teneso tenga propiedades significativamente diferentes de las del resto de elementos del grupo, aunque se prev\u00e9 que el punto de fusi\u00f3n, el punto de ebullici\u00f3n y la primera energ\u00eda de ionizaci\u00f3n sigan las tendencias peri\u00f3dicas. Los is\u00f3topos sintetizados hasta ahora son el teneso-293, con una vida media de aproximadamente 14 milisegundos, y teneso-294, con una vida media de alrededor de 78 milisegundos; esto parece confirmar la existencia de la isla de estabilidad. Asimismo, las predicciones te\u00f3ricas prev\u00e9n que los is\u00f3topos de teneso-309 y superiores sean a\u00fan m\u00e1s estables.",
+            "https://es.wikipedia.org/wiki/Teneso"
+        ],
+        "appareance": null,
+        "category": "unknown, probably metalloid",
+        "phase": "S\u00f3lido",
+        "category_t": "Desconocido, probablemente metaloide"
+    },
+    "Og": {
+        "name": "Ununoctio",
+        "summary": [
+            "El oganes\u00f3n\u200b\u200b es el nombre para el elemento sint\u00e9tico de la tabla peri\u00f3dica cuyo s\u00edmbolo es Og y su n\u00famero at\u00f3mico es 118.\u200b Es el elemento m\u00e1s pesado sintetizado hasta ahora y el \u00faltimo del s\u00e9ptimo per\u00edodo en la tabla peri\u00f3dica. En la tabla peri\u00f3dica es un elemento del bloque p y el \u00faltimo del periodo 7. Es actualmente el \u00fanico elemento sint\u00e9tico del grupo 18 y posee el n\u00famero y masa at\u00f3mica m\u00e1s altos de todos los elementos sintetizados.\u200b\nEl 30 de diciembre de 2015, la IUPAC anunci\u00f3 en su portal web la verificaci\u00f3n del descubrimiento de cuatro elementos del per\u00edodo 7,\u200b entre ellos el oganes\u00f3n. El nuevo elemento fue as\u00ed llamado en espa\u00f1ol (con la terminaci\u00f3n \u2013\u00f3n t\u00f3nica) siguiendo el criterio ortogr\u00e1fico de denominaci\u00f3n de los gases nobles (ne\u00f3n, xen\u00f3n\u2026).\u200b Fue nombrado as\u00ed en honor al f\u00edsico ruso, Yuri Oganesi\u00e1n.\u200b\nEl \u00e1tomo de oganes\u00f3n es radiactivo y altamente inestable, por lo que desde 2002 solo se han detectado tres o posiblemente cuatro \u00e1tomos del is\u00f3topo 294Og.\u200b Si bien este hecho no posibilita un estudio experimental adecuado que pueda caracterizar sus propiedades y sus posibles compuestos, varios c\u00e1lculos te\u00f3ricos han permitido predecir muchas de sus cualidades, incluidas algunas inesperadas. Por ejemplo, a pesar de que el oganes\u00f3n es formalmente un elemento del grupo 18, probablemente no sea un gas noble, como el resto de elementos del grupo.\u200b Si bien inicialmente se pensaba que era un gas, ahora se supone que es un s\u00f3lido bajo condiciones normales de presi\u00f3n y temperatura.\u200b\nEl oganes\u00f3n es el elemento qu\u00edmico m\u00e1s pesado observado en laboratorio y su s\u00edntesis, junto a la del livermorio, no estuvo exenta de pol\u00e9mica.\u200b El equipo estadounidense que anunci\u00f3 en primer lugar la s\u00edntesis en 1999 tuvo que publicar una retractaci\u00f3n en 2002 reconociendo que hab\u00edan ama\u00f1ado los datos experimentales.\u200b Este hecho provoc\u00f3 un esc\u00e1ndalo cient\u00edfico de grandes proporciones y la revisi\u00f3n de las normas \u00e9ticas de la investigaci\u00f3n en varios centros del pa\u00eds.\u200b En 2006 un equipo ruso public\u00f3 su s\u00edntesis y este resultado no ha sido cuestionado por otros cient\u00edficos. El descubrimiento de este elemento fue reafirmado por el espa\u00f1ol Miguel Ant\u00f3n en el a\u00f1o 2013 en el CERN en Ginebra.\u200b",
+            "https://es.wikipedia.org/wiki/Oganes%C3%B3n"
+        ],
+        "appareance": null,
+        "category": "unknown, predicted to be noble gas",
+        "phase": "S\u00f3lido",
+        "category_t": "Desconocido, se predice que es un gas noble"
+    },
+    "Uue": {
+        "name": "Ununennio",
+        "summary": [
+            "Ununennio, tambi\u00e9n conocido como eka-francio, es el hipot\u00e9tico elemento qu\u00edmico con los s\u00edmbolos Uue (aceptables) y de n\u00famero at\u00f3mico 119. En la tabla peri\u00f3dica se localiza en el segmento de los metales alcalinos, y es el primer elemento en el octavo per\u00edodo. Es el elemento m\u00e1s ligero que a\u00fan no ha sido sintetizado. \nLos experimentos dirigidos a la s\u00edntesis del ununennio comenzaron en junio de 2018 en RIKEN, Jap\u00f3n; otro intento del equipo del Instituto Central de Investigaciones Nucleares de Dubn\u00e1, Rusia, que comenz\u00f3 en 2019. Antes de esto, se hab\u00edan realizado dos intentos fallidos con el fin de sintetizar el ununennio por parte de dos equipos, americano y alem\u00e1n. Las pruebas te\u00f3ricas y experimentales han demostrado que la s\u00edntesis de ununennio ser\u00e1 probablemente mucho m\u00e1s dif\u00edcil que la de los elementos anteriores e incluso puede ser el pen\u00faltimo elemento que se pueda sintetizar con la tecnolog\u00eda actual.\nLa posici\u00f3n del ununennio como s\u00e9ptimo metal alcalino sugiere que tendr\u00eda propiedades similares a sus cong\u00e9neres m\u00e1s ligeros: litio, sodio, potasio, rubidio, cesio y francio. Sin embargo, los efectos relativistas pueden hacer que algunas de sus propiedades difieran de las esperadas en una aplicaci\u00f3n directa de tendencias peri\u00f3dicas. Por ejemplo, se espera que el ununennio sea menos reactivo que el cesio y el francio y que adopte un comportamiento m\u00e1s cercano al del potasio o el rubidio. Aunque deber\u00eda mostrar el caracter\u00edstico estado de oxidaci\u00f3n +1 de los metales alcalinos, no se ha descartado la idea de que muestre un estado de oxidaci\u00f3n +3, que no se conoce en ning\u00fan otro metal alcalino.",
+            "https://es.wikipedia.org/wiki/Ununennio"
+        ],
+        "appareance": null,
+        "category": "unknown, but predicted to be an alkali metal",
+        "phase": "S\u00f3lido",
+        "category_t": "Desconocido, pero se predice que es un metal alcalino"
+    }
+}

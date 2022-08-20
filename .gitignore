@@ -1,0 +1,8 @@
+*.pyc
+*.swp
+config.json
+.vscode/*
+logs/*
+lib/PIL/*
+lib/Pillow-9.2.0.dist-info/*
+lib/Pillow.libs/*
