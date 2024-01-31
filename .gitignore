@@ -1,6 +1,5 @@
 *.pyc
 *.swp
-config.json
 .vscode/*
 logs/*
 lib/PIL/*
